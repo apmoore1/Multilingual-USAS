@@ -157,6 +157,8 @@ In the example above we can see that for the lemma `Austin` the most likely sema
 
 In a single word lexicon file the characters `*`, `[` and `]` in the `lemma` field are always **literal**, e.g. `f***` only matches the word `f***`. Entries whose `lemma` or `pos` is a pattern belong in an [autotag lexicon file](#autotag-lexicon-file-format) instead. The only exception is the [Implicit POS](#implicit-pos) rule below, whereby a `pos` value of exactly `*` means any POS.
 
+The `lemma`, `token`, and `pos` values cannot start or end with whitespace, e.g. `Noun ` is not a valid `pos` value.
+
 A full list of valid TSV headers and their expected value:
 
 | Header name | Required | Value | Example |
@@ -226,6 +228,8 @@ lemma	pos	semantic_tags
 These lexicons on each line will contain only a value for the `mwe_template` and the `semantic_tags`. The `semantic_tags` will contain the same information as the `semantic_tags` header for the single word lexicon data. The `mwe_template`, which is best described in the [The UCREL Semantic Analysis System paper (see Fig 3, called multiword templates in the paper)](https://www.lancaster.ac.uk/staff/rayson/publications/usas_lrec04ws.pdf), is a simplified pattern matching code, like a regular expression, that is used to capture MWEs that have similar structure. For example, `*_* Ocean_N*1` will capture `Pacific Ocean`, `Atlantic Ocean`, etc. The templates not only match continuous MWEs, but also match discontinuous ones. MWE templates allow other words to be embedded within them. For example, the set phrase `turn on` may occur as `turn it on`, `turn the light on`, `turn the TV on` etc. Using the template ` turn*_* {N*/P*/R*} on_RP ` we can identify this set phrase in various contexts. 
 
 You will have noticed that these `mwe_templates` have the following pattern matching structure of `{token}_{pos} {token}_{pos}`, etc. In which each token and/or POS can have a wildcard applied to it, the wildcard means zero or more additional characters.
+
+Each `{token}_{pos}` (or curly brace, e.g. `{N*/P*/R*}`) part of the `mwe_template` has to be separated by a single space, the `mwe_template` cannot start or end with whitespace, and neither the token nor the POS can be empty, e.g. `_*` and `ocean` are not valid, as tools that use these lexicons, e.g. [PyMUSAS](https://github.com/ucrel/pymusas), rely on this format.
 
 A full list of valid TSV headers and their expected value:
 
@@ -301,6 +305,8 @@ Contributors run this script, after changing a lexicon text file, to create the 
     2. All fields/columns have a header name,
     3. All lines contain the minimum information e.g. no comment lines exist in the middle of the file.
     4. For autotag files, the `lemma` and `pos` patterns are valid, e.g. every `[` starts a closed character class, and no `pos` value is just `*`.
+    5. The `lemma`, `pos`, and `token` values do not start or end with whitespace.
+    6. The `mwe_template` values do not start or end with whitespace, separate their tokens with a single space only, and only contain `{...}` or `{token}_{pos}` tokens whereby the token and POS are not empty.
 
 ``` bash
 python txt_to_tsv.py
@@ -345,6 +351,16 @@ The script tests the following:
 2. All fields/columns have a header name.
 3. All lines contain the minimum information e.g. no comment lines exist in the middle of the file.
 4. For autotag files, the `lemma` and `pos` patterns are valid, e.g. every `[` starts a closed character class, and no `pos` value is just `*`.
+5. The `lemma`, `pos`, and `token` values do not start or end with whitespace.
+6. The `mwe_template` values do not start or end with whitespace, separate their tokens with a single space only, and only contain `{...}` or `{token}_{pos}` tokens whereby the token and POS are not empty.
+
+### Find formatting issues
+
+The [find_formatting_issues.py script](./find_formatting_issues.py) finds all of the lexicon entries within the single, autotag, and multi word expression lexicon text files that do not pass the formatting checks 5 and 6 of the [test file format section](#test-file-format), e.g. a `pos` value that ends with whitespace. Unlike the [test_collection.py script](./test_collection.py), which stops at the first error, this script lists all of the entries along with the line number within the lexicon text file, and, where the fix is mechanical, e.g. removing whitespace, a suggested fix, otherwise the entry `needs review` by someone who knows the language. The script takes no arguments as it uses the [./language_resources.json](./language_resources.json), and outputs a Markdown report to stdout.
+
+``` bash
+python find_formatting_issues.py > formatting_issues_report.md
+```
 
 ### Lexicon Statistics
 
