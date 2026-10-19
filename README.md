@@ -359,8 +359,25 @@ The script tests the following:
 The [find_formatting_issues.py script](./find_formatting_issues.py) finds all of the lexicon entries within the single, autotag, and multi word expression lexicon text files that do not pass the formatting checks 5 and 6 of the [test file format section](#test-file-format), e.g. a `pos` value that ends with whitespace. Unlike the [test_collection.py script](./test_collection.py), which stops at the first error, this script lists all of the entries along with the line number within the lexicon text file, and, where the fix is mechanical, e.g. removing whitespace, a suggested fix, otherwise the entry `needs review` by someone who knows the language. The script takes no arguments as it uses the [./language_resources.json](./language_resources.json), and outputs a Markdown report to stdout.
 
 ``` bash
-python find_formatting_issues.py > formatting_issues_report.md
+python find_formatting_issues.py
 ```
+
+### Fix formatting issues
+
+The [fix_formatting_issues.py script](./fix_formatting_issues.py) applies the suggested fixes from the [find formatting issues section](#find-formatting-issues) to the lexicon text files of a language (`--language`, the language code or description, e.g. `ur` or `Urdu`) or to a single lexicon file (`--file`), and regenerates the TSV version of each changed file. Each regenerated TSV file is then checked using the [test_collection.py script](./test_collection.py), the same check as CI, and the script prints whether the file passes or still fails, e.g. because it has issues that need review. Files not listed in [./language_resources.json](./language_resources.json) are not checked, as their data type is unknown. Only the fixed values are changed, comments and line endings stay the same. Each fix made and each fix skipped is printed, a fix is skipped when:
+
+1. It `needs review` by someone who knows the language.
+2. The line is given with `--skip-line`, which can be used more than once and only with `--file`.
+3. The fixed entry would be a duplicate of another entry, e.g. the same `lemma` and `pos`, as these need to be merged by hand.
+
+Use `--dry-run` to see the fixes without changing any files.
+
+``` bash
+python fix_formatting_issues.py --language Swedish --dry-run
+python fix_formatting_issues.py --file Urdu/Urdu_Semantic_Lexicon.txt --skip-line 1992
+```
+
+After fixing, run `python find_formatting_issues.py` to see the remaining issues and `python create_pos_tagsets.py` to update the generated POS tagsets.
 
 ### Lexicon Statistics
 

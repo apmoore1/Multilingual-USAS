@@ -2,7 +2,7 @@ import argparse
 from pathlib import Path
 import csv
 import json
-from typing import List, Dict, Iterable, Tuple
+from typing import List, Dict, Iterable, Tuple, Optional
 import re
 
 from test_collection import find_whitespace_problems, find_mwe_template_problems
@@ -44,6 +44,60 @@ def read_txt_lexicon_with_line_numbers(txt_file_path: Path) -> Iterable[Tuple[in
             yield line_number, dict(zip(field_names, values))
 
 
+FIELD_NAMES_TO_CHECK = ['lemma', 'token', 'pos', 'mwe_template']
+
+
+def find_field_problems(field_name: str, value: str) -> List[str]:
+    '''
+    Returns a description of each formatting problem in the `value` of the
+    field `field_name`, an empty list means there are no problems.
+
+    # Parameters
+
+    field_name : `str`
+        The name of the field the `value` comes from, one of
+        `FIELD_NAMES_TO_CHECK`.
+
+    value : `str`
+        The field value.
+
+    # Returns
+
+    `List[str]`
+    '''
+    if field_name == 'mwe_template':
+        return find_mwe_template_problems(value)
+    return find_whitespace_problems(value)
+
+
+def mechanical_fix(field_name: str, value: str, problems: List[str]) -> Optional[str]:
+    '''
+    Returns the fixed `value` when all of the `problems` can be fixed
+    mechanically, e.g. by removing surrounding whitespace, otherwise `None`
+    as someone who knows the language needs to decide on the fix.
+
+    # Parameters
+
+    field_name : `str`
+        The name of the field the `value` comes from.
+
+    value : `str`
+        The field value.
+
+    problems : `List[str]`
+        The problems found in the `value`.
+
+    # Returns
+
+    `Optional[str]`
+    '''
+    if any(problem.startswith('the token') for problem in problems):
+        return None
+    if field_name == 'mwe_template':
+        return ' '.join(value.split())
+    return value.strip()
+
+
 def suggest_fix(field_name: str, value: str, problems: List[str]) -> str:
     '''
     Returns a suggested fix for the `value`. A fix is only suggested when it
@@ -66,11 +120,10 @@ def suggest_fix(field_name: str, value: str, problems: List[str]) -> str:
 
     `str`
     '''
-    if any(problem.startswith('the token') for problem in problems):
+    fixed_value = mechanical_fix(field_name, value, problems)
+    if fixed_value is None:
         return 'needs review'
-    if field_name == 'mwe_template':
-        return repr(' '.join(value.split()))
-    return repr(value.strip())
+    return repr(fixed_value)
 
 
 def markdown_escape(value: str) -> str:
@@ -118,14 +171,11 @@ if __name__ == '__main__':
                 txt_file_path = tsv_file_path.with_suffix('.txt')
                 relative_txt_file_path = txt_file_path.relative_to(repository_folder)
                 for line_number, entry in read_txt_lexicon_with_line_numbers(txt_file_path):
-                    for field_name in ['lemma', 'token', 'pos', 'mwe_template']:
+                    for field_name in FIELD_NAMES_TO_CHECK:
                         value = entry.get(field_name)
                         if value is None:
                             continue
-                        if field_name == 'mwe_template':
-                            problems = find_mwe_template_problems(value)
-                        else:
-                            problems = find_whitespace_problems(value)
+                        problems = find_field_problems(field_name, value)
                         if not problems:
                             continue
                         suggested_fix = suggest_fix(field_name, value, problems)
