@@ -13,7 +13,7 @@
 | Italian (it)             | semantic_lexicon_ita.tsv        | 33,091                          | :heavy_check_mark:           | :x:                              | :x:                          |
 | Italian (it)             | mwe-ita.tsv                     | :x:                             | :x:                          | :x:                              | 5,622                        |
 | Standard Malay (zsm)     | semantic_lexicon_ms.tsv         | 64,863                          | :x:                          | :x:                              | :x:                          |
-| Portuguese (pt)          | semantic_lexicon_pt.tsv         | 13,942                          | :heavy_check_mark:           | :x:                              | :x:                          |
+| Portuguese (pt)          | semantic_lexicon_pt.tsv         | 13,496                          | :heavy_check_mark:           | :x:                              | :x:                          |
 | Portuguese (pt)          | mwe-pt.tsv                      | :x:                             | :x:                          | :x:                              | 1,781                        |
 | Russian (ru)             | semantic_lexicon_rus.tsv        | 17,443                          | :heavy_check_mark:           | :x:                              | :x:                          |
 | Russian (ru)             | semantic_lexicon_rus_names.tsv  | 7,643                           | :heavy_check_mark:           | :x:                              | :x:                          |
