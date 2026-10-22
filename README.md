@@ -197,6 +197,7 @@ Some single word lexicon entries are patterns rather than literal words, e.g. `*
 
 1. The `lemma` and `pos` fields are **patterns** rather than literal values.
 2. The `pos` field is required, as every autotag entry must give a POS pattern so that patterns do not match tokens of every POS. Therefore a `pos` value of just `*` is **not** allowed, however a `pos` pattern can contain `*` alongside other characters, e.g. `N*`.
+3. The **order of the entries matters**. A token is tagged by the **first** entry whose `lemma` and `pos` patterns both match it, all later entries are ignored for that token. Therefore more specific entries must come before more general ones, e.g. `*[0-9]cms	NUM	N3.3 N3.7` must come before `[0-9][0-9]*s	NUM	T1.3 N1 T3`, and a catch-all entry such as `*	NUM	N1` should be the last `NUM` entry. Unlike single word lexicon files, autotag files must not be sorted.
 
 The pattern syntax for the `lemma` and `pos` fields:
 
@@ -207,7 +208,7 @@ The pattern syntax for the `lemma` and `pos` fields:
 | `*` | A `*` anywhere else means zero or more of any character, the regular expression `.*`. | `*-year-old` matches `10-year-old`. |
 | Any other character | Literal, e.g. `.`, `+`, `?`, `(` are matched exactly. When an entry is converted to a regular expression these characters must be escaped. | `*%` matches `10%`. |
 
-A `lemma` of just `*` is a valid pattern, e.g. `*	PUNCT	PUNCT` would give the USAS tag `PUNCT` to any token with the POS tag `PUNCT` that does not match a non-pattern single word lexicon entry.
+A `lemma` of just `*` is a valid pattern, e.g. `*	PUNCT	PUNCT` would give the USAS tag `PUNCT` to any token with the POS tag `PUNCT` that does not match a non-pattern single word lexicon entry, as long as no earlier autotag entry matches that token.
 
 > [!WARNING]
 > `[...]*` also matches **zero** characters, so the rest of the pattern on its own is a valid match. For example, `[0-9]*ish` matches `9ish` and `10ish`, but also the word `ish`. When writing an entry, check that the zero-character match is intended. If at least one character from the class is required, add a non-optional copy of the class before it, e.g. `[0-9][0-9]*ish` matches `9ish` and `10ish` but not `ish`.
