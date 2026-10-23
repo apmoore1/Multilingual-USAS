@@ -203,10 +203,10 @@ The pattern syntax for the `lemma` and `pos` fields:
 
 | Syntax | Meaning | Example |
 |--------|---------|---------|
-| `[...]` | A [regular expression character class](https://docs.python.org/3/library/re.html#regular-expression-syntax) that matches exactly one character. Within the class a `\` escapes the next character. | `[0-9]` matches one digit, `[a-z]` matches one lowercase ASCII letter, `[\]]` matches a `]`. |
+| `[...]` | A [regular expression character class](https://docs.python.org/3/library/re.html#regular-expression-syntax) that matches exactly one character. Within the class a `\` escapes the next character, and a literal `[` or `]` can only be written within a class and **must** be escaped, as `\[` and `\]`. An unescaped `[` within a class, or a `]` that does not close a class, is invalid. | `[0-9]` matches one digit, `[a-z]` matches one lowercase ASCII letter, `[\[]` matches a `[`, `[\]]` matches a `]`, `[\[\]]` matches either. |
 | `[...]*` | A `*` straight after a character class means zero or more characters from that class, as in a regular expression. | `[0-9]*ish` matches `9ish` and `10ish`. |
 | `*` | A `*` anywhere else means zero or more of any character, the regular expression `.*`. | `*-year-old` matches `10-year-old`. |
-| Any other character | Literal, e.g. `.`, `+`, `?`, `(` are matched exactly. When an entry is converted to a regular expression these characters must be escaped. | `*%` matches `10%`. |
+| Any other character | Literal, e.g. `.`, `+`, `?`, `(` are matched exactly. A literal `[` or `]` cannot be written outside of a character class, use `[\[]` or `[\]]`. When an entry is converted to a regular expression these characters must be escaped. | `*%` matches `10%`. |
 
 A `lemma` of just `*` is a valid pattern, e.g. `*	PUNCT	PUNCT` would give the USAS tag `PUNCT` to any token with the POS tag `PUNCT` that does not match a non-pattern single word lexicon entry, as long as no earlier autotag entry matches that token.
 
@@ -305,7 +305,7 @@ Contributors run this script, after changing a lexicon text file, to create the 
     1. The minimum header names exist, 
     2. All fields/columns have a header name,
     3. All lines contain the minimum information e.g. no comment lines exist in the middle of the file.
-    4. For autotag files, the `lemma` and `pos` patterns are valid, e.g. every `[` starts a closed character class, and no `pos` value is just `*`.
+    4. For autotag files, the `lemma` and `pos` patterns are valid, e.g. every `[` starts a closed, non-empty character class that contains no unescaped `[`, every `]` closes a character class, and no `pos` value is just `*`.
     5. The `lemma`, `pos`, and `token` values do not start or end with whitespace.
     6. The `mwe_template` values do not start or end with whitespace, separate their tokens with a single space only, and only contain `{...}` or `{token}_{pos}` tokens whereby the token and POS are not empty.
 
@@ -351,7 +351,7 @@ The script tests the following:
 1. The minimum header names exist.
 2. All fields/columns have a header name.
 3. All lines contain the minimum information e.g. no comment lines exist in the middle of the file.
-4. For autotag files, the `lemma` and `pos` patterns are valid, e.g. every `[` starts a closed character class, and no `pos` value is just `*`.
+4. For autotag files, the `lemma` and `pos` patterns are valid, e.g. every `[` starts a closed, non-empty character class that contains no unescaped `[`, every `]` closes a character class, and no `pos` value is just `*`.
 5. The `lemma`, `pos`, and `token` values do not start or end with whitespace.
 6. The `mwe_template` values do not start or end with whitespace, separate their tokens with a single space only, and only contain `{...}` or `{token}_{pos}` tokens whereby the token and POS are not empty.
 

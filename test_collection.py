@@ -13,8 +13,10 @@ def pattern_to_regex(pattern: str) -> str:
 
     The pattern syntax is:
     1. `[...]` -- a character class that matches exactly one character.
-       Within the class a `\` escapes the next character, e.g. `[\]]`
-       matches `]`.
+       Within the class a `\` escapes the next character, and a literal `[`
+       or `]` can only be written within a class and has to be escaped, e.g.
+       `[\[]` matches `[` and `[\]]` matches `]`. An unescaped `[` within a
+       class is not allowed, nor is a `]` that does not close a class.
     2. `*` straight after a character class -- zero or more characters from
        that class, e.g. `[0-9]*`.
     3. `*` anywhere else -- zero or more of any character (`.*`).
@@ -32,7 +34,12 @@ def pattern_to_regex(pattern: str) -> str:
     # Raises
 
     ValueError
-        If a `[` does not start a closed, non-empty character class.
+        If any of the following are true:
+        1. A `[` starts a character class that is never closed by an
+           unescaped `]`.
+        2. A character class is empty, i.e. `[]`.
+        3. A character class contains an unescaped `[`.
+        4. There is an unescaped `]` outside of a character class.
     '''
     regex = ''
     index = 0
@@ -46,6 +53,10 @@ def pattern_to_regex(pattern: str) -> str:
                 if pattern[class_index] == '\\':  # '\\' is a single backslash character.
                     class_index += 2
                     continue
+                if pattern[class_index] == '[':
+                    raise ValueError(f'The pattern `{pattern}` contains an '
+                                     f'unescaped `[` at position {class_index} '
+                                     'within a character class, escape it with `\\[`.')
                 if pattern[class_index] == ']':
                     closing_index = class_index
                     break
@@ -62,6 +73,11 @@ def pattern_to_regex(pattern: str) -> str:
                 regex += '*'
                 index += 1
             continue
+        if character == ']':
+            raise ValueError(f'The pattern `{pattern}` contains an unmatched '
+                             f'`]` at position {index}, a `]` is only a '
+                             'literal within a character class when escaped, '
+                             '`\\]`.')
         if character == '*':
             regex += '.*'
         else:
