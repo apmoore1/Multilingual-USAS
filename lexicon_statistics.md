@@ -28,3 +28,5 @@
 | English (en)             | semantic_lexicon_en.tsv         | 54,761                          | :heavy_check_mark:           | :x:                              | :x:                          |
 | English (en)             | semantic_lexicon_en_autotag.tsv | :x:                             | :x:                          | 108                              | :x:                          |
 | English (en)             | mwe-en.tsv                      | :x:                             | :x:                          | :x:                              | 19,042                       |
+| Iranian Persian (pes)    | pes_semantic_lexicon.tsv        | 5,834                           | :heavy_check_mark:           | :x:                              | :x:                          |
+| Iranian Persian (pes)    | mwe-pes.tsv                     | :x:                             | :x:                          | :x:                              | 881                          |

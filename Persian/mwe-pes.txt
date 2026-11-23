@@ -1,0 +1,882 @@
+mwe_template	mwe_phrase	pos	semantic_tags	gloss
+آزاد_* شد_*	آزاد شد	VERB	A1.7-	be freed
+آزاد_* شدن_*	آزاد شدن	NOUN	A1.7-	be freed
+آزمایش_* داد_*	آزمایش داد	VERB	B3 X2.4	took a test (medical)
+آزمایش_* دادن_*	آزمایش دادن	NOUN	B3 X2.4	to take a test (medical)
+آسیب_* دید_*	آسیب دید	VERB	B2- A1.1.2 E1	be injured
+آسیب_* دیدن_*	آسیب دیدن	NOUN	B2- A1.1.2 E1	be injured
+آسیب_* رساند_*	آسیب رساند	VERB	B2- A1.1.2 E1	cause injury
+آسیب_* رساندن_*	آسیب رساندن	NOUN	B2- A1.1.2 E1	cause injury
+آشنا_* شد_*	آشنا شد	VERB	S9 X2.2+	be familiar, acquainted
+آشنا_* شدن_*	آشنا شدن	NOUN	S9 X2.2+	be familiar, acquainted
+آغاز_* شد_*	آغاز شد	VERB	T2+	began
+آغاز_* شدن_*	آغاز شدن	NOUN	T2+	to begin
+آغاز_* کرد_*	آغاز کرد	VERB	T2+	started
+آغاز_* کردن_*	آغاز کردن	NOUN	T2+	to start
+آمپول_* زد_*	آمپول زد	VERB	B3 A9- Y1	gave an injection
+آمپول_* زدن_*	آمپول زدن	NOUN	B3 A9- Y1	to give an injection
+آگاه_* بود_*	آگاه بود	VERB	X2.2+	be aware
+آگاه_* بودن_*	آگاه بودن	NOUN	X2.2+	be aware
+آگاه_* شد_*	آگاه شد	VERB	X2.2+ X2.4 Q2.1	be informed
+آگاه_* شدن_*	آگاه شدن	NOUN	X2.2+ X2.4 Q2.1	be informed
+اتاق_* عمل_*	اتاق عمل	NOUN	B3/H2	operating room
+اتفاق_* افتاد_*	اتفاق افتاد	VERB	A2.1+ A3+ X7-	happen
+اتفاق_* افتادن_*	اتفاق افتادن	NOUN	A2.1+ A3+ X7-	happen
+اثر_* گذاشت_*	اثر گذاشت	VERB	X5.2+ A11.1+ A1.1.1 A2.1+ A5.4-/A8	impress, affect
+اثر_* گذاشتن_*	اثر گذاشتن	NOUN	X5.2+ A11.1+ A1.1.1 A2.1+ A5.4-/A8	impress, affect
+اجازه_* خواست_*	اجازه خواست	VERB	S7.4+	ask permission
+اجازه_* خواستن_*	اجازه خواستن	NOUN	S7.4+	ask permission
+اجازه_* داد_*	اجازه داد	VERB	S7.4+	permit
+اجازه_* دادن_*	اجازه دادن	NOUN	S7.4+	permit
+اجرا_* کرد_*	اجرا کرد	VERB	L1- A1.1.1 K4 X9.2+	execute, perform
+اجرا_* کردن_*	اجرا کردن	NOUN	L1- A1.1.1 K4 X9.2+	execute, perform
+احساس_* کرد_*	احساس کرد	VERB	X2.1 E1 X3	feel
+احساس_* کردن_*	احساس کردن	NOUN	X2.1 E1 X3	feel
+ادامه_* داد_*	ادامه داد	VERB	T2++	continued
+ادامه_* دادن_*	ادامه دادن	NOUN	T2++	to continue
+ادعا_* کرد_*	ادعا کرد	VERB	Q2.2 A9+	claim
+ادعا_* کردن_*	ادعا کردن	NOUN	Q2.2 A9+	claim
+ارتباط_* داشت_*	ارتباط داشت	VERB	Q2.2	be in contact
+ارتباط_* داشتن_*	ارتباط داشتن	NOUN	Q2.2	be in contact
+از_* جمله_*	از جمله	ADP	A1.8+	including
+از_* دست_* داد_*	از دست داد	VERB	A9- L1-	lost
+از_* دست_* دادن_*	از دست دادن	NOUN	A9- L1-	to lose
+از_* دست_* رفت_*	از دست رفت	VERB	L1- T2-	was lost
+از_* دست_* رفتن_*	از دست رفتن	NOUN	L1- T2-	to be lost
+از_* دنیا_* رفت_*	از دنیا رفت	VERB	L1-	passed away
+از_* دنیا_* رفتن_*	از دنیا رفتن	NOUN	L1-	to pass away
+از_* سوی_*	از سوی	ADP	Z5	by, from
+از_* طرف_*	از طرف	ADP	S1.1.1	on behalf of, by
+از_* طریق_*	از طریق	ADP	Z5 X4.2	via, by means of
+از_* هم_* پاشید_*	از هم پاشید	VERB	A1.1.2	fall apart
+از_* هم_* پاشیدن_*	از هم پاشیدن	NOUN	A1.1.2	fall apart
+از_* پا_* انداخت_*	از پا انداخت	VERB	S1.2.5-	weakened, exhausted
+از_* پا_* انداختن_*	از پا انداختن	NOUN	S1.2.5-	to weaken, exhaust
+از_* پا_* درآورد_*	از پا درآورد	VERB	S1.2.5- B2- X9.2+/G3 X9.2+/S7.3 A12- L1- A1.5.1 E4.1-/A2.2	knocked out, incapacitated
+از_* پا_* درآوردن_*	از پا درآوردن	NOUN	S1.2.5- B2- X9.2+/G3 X9.2+/S7.3 A12- L1- A1.5.1 E4.1-/A2.2	to knock out, incapacitate
+ازدواج_* کرد_*	ازدواج کرد	VERB	S4 A2.2	marry
+ازدواج_* کردن_*	ازدواج کردن	NOUN	S4 A2.2	marry
+استفاده_* شد_*	استفاده شد	VERB	A1.5.1 T3+	be used
+استفاده_* شدن_*	استفاده شدن	NOUN	A1.5.1 T3+	be used
+استفاده_* کرد_*	استفاده کرد	VERB	A1.5.1 S7.1+	use
+استفاده_* کردن_*	استفاده کردن	NOUN	A1.5.1 S7.1+	use
+استفراغ_* کرد_*	استفراغ کرد	VERB	B2-	vomited
+استفراغ_* کردن_*	استفراغ کردن	NOUN	B2-	to vomit
+استقبال_* کرد_*	استقبال کرد	VERB	Q2.2 S1.1.1	welcome
+استقبال_* کردن_*	استقبال کردن	NOUN	Q2.2 S1.1.1	welcome
+اسکن_* کرد_*	اسکن کرد	VERB	Y1/B3 Y2	scanned
+اسکن_* کردن_*	اسکن کردن	NOUN	Y1/B3 Y2	to scan
+اشتباه_* کرد_*	اشتباه کرد	VERB	A5.3-	make a mistake
+اشتباه_* کردن_*	اشتباه کردن	NOUN	A5.3-	make a mistake
+اصلاح_* کرد_*	اصلاح کرد	VERB	A2.1+ A5.3+/A2.1	reform, correct
+اصلاح_* کردن_*	اصلاح کردن	NOUN	A2.1+ A5.3+/A2.1	reform, correct
+اظهار_* داشت_*	اظهار داشت	VERB	Q1.1 B1% Q2.2 K5.1%	express, declare
+اظهار_* داشتن_*	اظهار داشتن	NOUN	Q1.1 B1% Q2.2 K5.1%	express, declare
+اعتراض_* کرد_*	اعتراض کرد	VERB	Q2.2 A10+ G1.2 A6.1- E2-	protest,object
+اعتراض_* کردن_*	اعتراض کردن	NOUN	Q2.2 A10+ G1.2 A6.1- E2-	protest,object
+اعتراف_* کرد_*	اعتراف کرد	VERB	Q2.2/A10+	confess
+اعتراف_* کردن_*	اعتراف کردن	NOUN	Q2.2/A10+	confess
+اعتماد_* به_* نفس_*	اعتماد به نفس	NOUN	E6+	self-confidence
+اعلام_* کرد_*	اعلام کرد	VERB	Q2.2	announce
+اعلام_* کردن_*	اعلام کردن	NOUN	Q2.2	announce
+افزایش_* یافت_*	افزایش یافت	VERB	N5+/A2.1	increase
+افزایش_* یافتن_*	افزایش یافتن	NOUN	N5+/A2.1	increase
+اقدام_* کرد_*	اقدام کرد	VERB	A1.1.1	acted, took action
+اقدام_* کردن_*	اقدام کردن	NOUN	A1.1.1	to act, take action
+امید_* داد_*	امید داد	VERB	A9-/X2.6+ E4.1+	to give hope
+امید_* دادن_*	امید دادن	NOUN	A9-/X2.6+ E4.1+	to give hope
+امیدوار_* بود_*	امیدوار بود	VERB	X2.6+ E4.1+ X9.2+ A5.1+	be hopeful
+امیدوار_* بودن_*	امیدوار بودن	NOUN	X2.6+ E4.1+ X9.2+ A5.1+	be hopeful
+انتخاب_* کرد_*	انتخاب کرد	VERB	G1.2/X7+ X7+	elect, choose
+انتخاب_* کردن_*	انتخاب کردن	NOUN	G1.2/X7+ X7+	elect, choose
+انتظار_* داشت_*	انتظار داشت	VERB	X2.6+ B1	expect
+انتظار_* داشتن_*	انتظار داشتن	NOUN	X2.6+ B1	expect
+انتقال_* داد_*	انتقال داد	VERB	M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5	transfer
+انتقال_* دادن_*	انتقال دادن	NOUN	M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5	transfer
+انجام_* داد_*	انجام داد	VERB	A1.1.1 X9.2+	accomplish
+انجام_* دادن_*	انجام دادن	NOUN	A1.1.1 X9.2+	accomplish
+انجام_* شد_*	انجام شد	VERB	A1.1.1 X9.2+	be done
+انجام_* شدن_*	انجام شدن	NOUN	A1.1.1 X9.2+	be done
+انگلیسی‌زبان_*	انگلیسی زبان	ADJ	Z2/Q3	English-speaking
+اهل_* بیت_*	اهل بیت	NOUN	S4c A4.1c	Mohammad’s family
+ایجاد_* کرد_*	ایجاد کرد	VERB	A1.1.1 A2.2 E1	create
+ایجاد_* کردن_*	ایجاد کردن	NOUN	A1.1.1 A2.2 E1	create
+با_* اراده_*	با اراده	ADJ	S1.2.5+	strong-willed, determined
+با_* این_* حال_*	با این حال	ADV	Z4	however, nevertheless
+باز_* شد_*	باز شد	VERB	A10+ T2+	open
+باز_* شدن_*	باز شدن	NOUN	A10+ T2+	open
+باز_* کرد_*	باز کرد	VERB	A10+ T2+	open
+باز_* کردن_*	باز کردن	NOUN	A10+ T2+	open
+بازداشت_* شد_*	بازداشت شد	VERB	G2.1 S8-	be arrested
+بازداشت_* شدن_*	بازداشت شدن	NOUN	G2.1 S8-	be arrested
+بازی_* کرد_*	بازی کرد	VERB	K1 K5.1 K5.2 K2 K3 A1.1.1 K6	play
+بازی_* کردن_*	بازی کردن	NOUN	K1 K5.1 K5.2 K2 K3 A1.1.1 K6	play
+باعث_* شد_*	باعث شد	VERB	A2.2	cause
+باعث_* شدن_*	باعث شدن	NOUN	A2.2	cause
+باقی_* ماند_*	باقی ماند	VERB	T2++ M8 N5.2+	remain
+باقی_* ماندن_*	باقی ماندن	NOUN	T2++ M8 N5.2+	remain
+بالا_* آورد_*	بالا آورد	VERB	B2-	vomited
+بالا_* آوردن_*	بالا آوردن	NOUN	B2-	to vomit
+بالا_* برد_*	بالا برد	VERB	A1.1.1 M2 E2 H4 H1 A9- N5+/A2.1 A5.1+/A2.1 X3.2++	put up, raise
+بالا_* بردن_*	بالا بردن	NOUN	A1.1.1 M2 E2 H4 H1 A9- N5+/A2.1 A5.1+/A2.1 X3.2++	put up, raise
+بالا_* رفت_*	بالا رفت	VERB	M1 N5+/A2.1 I1.3/N5+ S7.1+/A2.1	go up
+بالا_* رفتن_*	بالا رفتن	NOUN	M1 N5+/A2.1 I1.3/N5+ S7.1+/A2.1	go up
+بالغ_* بر_*	بالغ بر	ADP	N5	amounting to
+باور_* کرد_*	باور کرد	VERB	X2.1 S9%	believe
+باور_* کردن_*	باور کردن	NOUN	X2.1 S9%	believe
+بحث_* کرد_*	بحث کرد	VERB	Q2.1 Q2.2	discuss
+بحث_* کردن_*	بحث کردن	NOUN	Q2.1 Q2.2	discuss
+بدست_* آورد_*	بدست آورد	VERB	A9+	to obtain , regain
+بدست_* آوردن_*	بدست آوردن	NOUN	A9+	to obtain , regain
+بر_* اثر_*	بر اثر	ADP	A2.2	as a result of
+بر_* اساس_*	بر اساس	ADP	Z5	according to, based on
+بر_* جا_* ماند_*	بر جا ماند	VERB	M8	remain, survive
+بر_* جا_* ماندن_*	بر جا ماندن	NOUN	M8	remain, survive
+برابر_* با_*	برابر با	ADP	A6.1+	equal to
+برای_* مثال_*	برای مثال	ADV	Z5	for example
+برخورد_* کرد_*	برخورد کرد	VERB	S3.1 M6 A1.1.1 X9.2+ A6.1+ A1.1.2 A6.1-	meet, collide
+برخورد_* کردن_*	برخورد کردن	NOUN	S3.1 M6 A1.1.1 X9.2+ A6.1+ A1.1.2 A6.1-	meet, collide
+برخوردار_* بود_*	برخوردار بود	VERB	A9+ S9%	be in possession
+برخوردار_* بودن_*	برخوردار بودن	NOUN	A9+ S9%	be in possession
+بررسی_* کرد_*	بررسی کرد	VERB	X2.4 B3 P1	examine
+بررسی_* کردن_*	بررسی کردن	NOUN	X2.4 B3 P1	examine
+برنامه‌نویس_*	برنامه نویس	NOUN	Y2/S2mf	programmer
+برنامه_* نویسی_*	برنامه نویسی	NOUN	Y2	programming
+برنده_* شد_*	برنده شد	VERB	X9.2+/S7.3 X9.2+/G3 A9+	won
+برنده_* شدن_*	برنده شدن	NOUN	X9.2+/S7.3 X9.2+/G3 A9+	to win
+بزرگ_* شد_*	بزرگ شد	VERB	T3+/A2.1 N3.2+/A2.1 S1.2.6+/A2.1	grow up
+بزرگ_* شدن_*	بزرگ شدن	NOUN	T3+/A2.1 N3.2+/A2.1 S1.2.6+/A2.1	grow up
+بستگی_* داشت_*	بستگی داشت	VERB	A2.2 S7.1-	depend
+بستگی_* داشتن_*	بستگی داشتن	NOUN	A2.2 S7.1-	depend
+بعد_* از_*	بعد از	ADP	Z5	after
+بلند_* شد_*	بلند شد	VERB	M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 A2.1+ A5.1+/A2.1 F4	rise, grow
+بلند_* شدن_*	بلند شدن	NOUN	M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 A2.1+ A5.1+/A2.1 F4	rise, grow
+بنا_* بر_*	بنا بر	ADP	Z5	according to, based on
+بنا_* بود_*	بنا بود	VERB	X7+	be supposed to
+بنا_* بودن_*	بنا بودن	NOUN	Z5	be supposed to
+به_* این_* ترتیب_*	به این ترتیب	ADV	Z5/A2.2	thus, in this way
+به_* ترتیب_*	به ترتیب	ADV	A6.1-	respectively
+به_* ثمر_* رساند_*	به ثمر رساند	VERB	A9+ X9.2+	bear fruit, achieve
+به_* ثمر_* رساندن_*	به ثمر رساندن	NOUN	A9+ X9.2+	bear fruit, achieve
+به_* جا_* ماند_*	به جا ماند	VERB	M8	remain, survive
+به_* جا_* ماندن_*	به جا ماندن	NOUN	M8	remain, survive
+به_* جای_*	به جای	ADP	A6.1-	instead of
+به_* خاطر_*	به خاطر	ADP	A2.2	because of, for the sake of
+به_* خصوص_*	به خصوص	ADV	A14	especially
+به_* دلیل_*	به دلیل	ADP	A2.2	because of, due to
+به_* دنیا_* آمد_*	به دنیا آمد	VERB	L1+	was born
+به_* دنیا_* آمدن_*	به دنیا آمدن	NOUN	L1+	to be born
+به_* رسمیت_* شناخت_*	به رسمیت شناخت	VERB	X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1	officially recognize
+به_* رسمیت_* شناختن_*	به رسمیت شناختن	NOUN	X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1	officially recognize
+به_* سمت_*	به سمت	ADP	Z5	towards
+به_* شدت_*	به شدت	ADV	A13.3 N5+	intensively, severely
+به_* صورت_*	به صورت	ADP	X4.2	in the form of, in a ... way
+به_* طرف_*	به طرف	ADP	Z5	towards
+به_* طور_*	به طور	ADP	Z5	in a ... way
+به_* طور_* کلی_*	به طور کلی	ADV	A4.2- A6.2+	in general
+به_* عبارت_* دیگر_*	به عبارت دیگر	ADV	Z4	in other words
+به_* عنوان_*	به عنوان	ADP	Z5	as
+به_* عنوان_* مثال_*	به عنوان مثال	ADV	Z5	for example
+به_* فنا_* رفت_*	به فنا رفت	VERB	A3- L1-	perished, was annihilated
+به_* فنا_* رفتن_*	به فنا رفتن	NOUN	A3- L1-	to perish, be annihilated
+به_* منظور_*	به منظور	ADP	Z5	in order to
+به_* موجب_*	به موجب	ADP	Z5	under, according to
+به_* نقل_* از_*	به نقل از	ADP	Q2.1	quoting, according to
+به_* وجود_* آمد_*	به وجود آمد	VERB	A3+	came into being
+به_* وجود_* آمدن_*	به وجود آمدن	NOUN	A3+	to come into being
+به_* وقوع_* پیوست_*	به وقوع پیوست	VERB	A2.1+ A3+	happen
+به_* وقوع_* پیوستن_*	به وقوع پیوستن	NOUN	A2.1+ A3+	happen
+به_* پایان_* رسید_*	به پایان رسید	VERB	T2- A1.5.1/N5.1+ A1.1.1 L1- X9.2-	came to an end
+به_* پایان_* رسیدن_*	به پایان رسیدن	NOUN	T2- A1.5.1/N5.1+ A1.1.1 L1- X9.2-	to come to an end
+بهبود_* یافت_*	بهبود یافت	VERB	B2+ A5.1+/A2.1 A9+	recovered
+بهبود_* یافتن_*	بهبود یافتن	NOUN	B2+ A5.1+/A2.1 A9+	to recover
+به‌هم_* ریخت_*	به‌هم ریخت	VERB	A1.1.2 E6- E4.1- B1	to fall into disorder; to become upset; to malfunction (body)
+به‌هم_* ریختن_*	به‌هم ریختن	NOUN	A1.1.2 E6- E4.1- B1	to fall into disorder; to become upset; to malfunction (body)
+بیان_* کرد_*	بیان کرد	VERB	Q2.1 Q1.1 B1%	state, express
+بیان_* کردن_*	بیان کردن	NOUN	Q2.1 Q1.1 B1%	state, express
+بیرون_* آمد_*	بیرون آمد	VERB	M1 A10+ A1.1.1	emerge
+بیرون_* آمدن_*	بیرون آمدن	NOUN	M1 A10+ A1.1.1	emerge
+بین_* الملل_*	بین الملل	ADJ	M7	international
+تأثیر_* گذاشت_*	تأثیر گذاشت	VERB	A2.2 X2.1 A8 A5.4-/A8 O4.2 O4.4	leave impression
+تأثیر_* گذاشتن_*	تأثیر گذاشتن	NOUN	A2.2 X2.1 A8 A5.4-/A8 O4.2 O4.4	leave impression
+تأکید_* داشت_*	تأکید داشت	VERB	A11.1+	emphasize
+تأکید_* داشتن_*	تأکید داشتن	NOUN	A11.1+	emphasize
+تأکید_* کرد_*	تأکید کرد	VERB	A11.1+	emphasize
+تأکید_* کردن_*	تأکید کردن	NOUN	A11.1+	emphasize
+تاخت_* و_* تاز_*	تاخت و تاز	NOUN	G3 G2.1	raiding and plundering
+تبدیل_* شد_*	تبدیل شد	VERB	A2.1+	convert
+تبدیل_* شدن_*	تبدیل شدن	NOUN	A2.1+	convert
+تبدیل_* کرد_*	تبدیل کرد	VERB	A2.1+	convert
+تبدیل_* کردن_*	تبدیل کردن	NOUN	A2.1+	convert
+تجربه_* کرد_*	تجربه کرد	VERB	A2.1+/A3+ X3	experience
+تجربه_* کردن_*	تجربه کردن	NOUN	A2.1+/A3+ X3	experience
+تحت_* تأثیر_*	تحت تأثیر	ADP	A2.2	under the influence of, affected by
+تحصیل_* کرد_*	تحصیل کرد	VERB	P1 X2.4	study
+تحصیل_* کردن_*	تحصیل کردن	NOUN	P1 X2.4	study
+تحلیل_* کرد_*	تحلیل کرد	VERB	X2.4	analyze
+تحلیل_* کردن_*	تحلیل کردن	NOUN	X2.4	analyze
+تحمل_* کرد_*	تحمل کرد	VERB	E2 S7.4+	tolerate
+تحمل_* کردن_*	تحمل کردن	NOUN	E2 S7.4+	tolerate
+تحمیل_* کرد_*	تحمیل کرد	VERB	S6+ S7.1+/X7-	impose
+تحمیل_* کردن_*	تحمیل کردن	NOUN	S6+ S7.1+/X7-	impose
+تحویل_* داد_*	تحویل داد	VERB	M2 Q2.1 X9.2+ B3 S9% A9-	deliver, hand
+تحویل_* دادن_*	تحویل دادن	NOUN	M2 Q2.1 X9.2+ B3 S9% A9-	deliver, hand
+ترجمه_* شد_*	ترجمه شد	VERB	Q3	be translated
+ترجمه_* شدن_*	ترجمه شدن	NOUN	Q3	to be translated
+ترجمه_* کرد_*	ترجمه کرد	VERB	Q3	translate
+ترجمه_* کردن_*	ترجمه کردن	NOUN	Q3	translate
+ترجیح_* داد_*	ترجیح داد	VERB	E2++	prefer
+ترجیح_* دادن_*	ترجیح دادن	NOUN	E2++	prefer
+ترک_* کرد_*	ترک کرد	VERB	M1 M2 A1.1.1 A1.9 A9- T2- E1%	leave, abandon
+ترک_* کردن_*	ترک کردن	NOUN	M1 M2 A1.1.1 A1.9 A9- T2- E1%	leave, abandon
+تزریق_* کرد_*	تزریق کرد	VERB	B3 A9- Y1	injected
+تزریق_* کردن_*	تزریق کردن	NOUN	B3 A9- Y1	to inject
+تست_* داد_*	تست داد	VERB	P1 B3 X2.4	took a test
+تست_* دادن_*	تست دادن	NOUN	P1 B3 X2.4	to take a test
+تست_* کرد_*	تست کرد	VERB	P1 B3 X2.4 A12-	tested, administered a test
+تست_* کردن_*	تست کردن	NOUN	P1 B3 X2.4 A12-	to test, administer a test
+تسلیم_* شد_*	تسلیم شد	VERB	S7.1- A9-	surrendered
+تسلیم_* شدن_*	تسلیم شدن	NOUN	S7.1- A9-	to surrender
+تسلیم_* کرد_*	تسلیم کرد	VERB	A9- S7.1+ S7.4+ X9.2+/G3 X9.2+/S7.3 A12-	handed over; surrendered (something)
+تسلیم_* کردن_*	تسلیم کردن	NOUN	A9- S7.1+ S7.4+ X9.2+/G3 X9.2+/S7.3 A12-	to hand over, surrender (something)
+تشخیص_* داد_*	تشخیص داد	VERB	A6.1- X3 A5.1+ B3 X2.4	distinguish, diagnose
+تشخیص_* دادن_*	تشخیص دادن	NOUN	A6.1- X3 A5.1+ B3 X2.4	distinguish, diagnose
+تشویق_* کرد_*	تشویق کرد	VERB	S8+	encourage
+تشویق_* کردن_*	تشویق کردن	NOUN	S8+	encourage
+تشکر_* کرد_*	تشکر کرد	VERB	S1.2.4+	thank
+تشکر_* کردن_*	تشکر کردن	NOUN	S1.2.4+	thank
+تشکیل_* داد_*	تشکیل داد	VERB	T2+ A2.1+ A1.8+ A3+ A1.1.1	form
+تشکیل_* دادن_*	تشکیل دادن	NOUN	T2+ A2.1+ A1.8+ A3+ A1.1.1	form
+تصمیم_* گرفت_*	تصمیم گرفت	VERB	X6+	decide
+تصمیم_* گرفتن_*	تصمیم گرفتن	NOUN	X6+	decide
+تصور_* کرد_*	تصور کرد	VERB	X2.1 A5.2-	imagine
+تصور_* کردن_*	تصور کردن	NOUN	X2.1 A5.2-	imagine
+تضمین_* کرد_*	تضمین کرد	VERB	A7+/Q2.2	guarantee
+تضمین_* کردن_*	تضمین کردن	NOUN	A7+/Q2.2	guarantee
+تعریف_* کرد_*	تعریف کرد	VERB	Q2.2	describe
+تعریف_* کردن_*	تعریف کردن	NOUN	Q2.2	describe
+تعطیل_* شد_*	تعطیل شد	VERB	T2-	shut down
+تعطیل_* شدن_*	تعطیل شدن	NOUN	T2-	shut down
+تعقیب_* کرد_*	تعقیب کرد	VERB	A1.1.1 X8+ X2.4 M1	pursue
+تعقیب_* کردن_*	تعقیب کردن	NOUN	A1.1.1 X8+ X2.4 M1	pursue
+تعلق_* داشت_*	تعلق داشت	VERB	A9+ A1.2+ S5+	belong
+تعلق_* داشتن_*	تعلق داشتن	NOUN	A9+ A1.2+ S5+	belong
+تعلق_* گرفت_*	تعلق گرفت	VERB	A9+/S7.1	be given to, go to
+تعلق_* گرفتن_*	تعلق گرفتن	NOUN	Z5	be given to, go to
+تعیین_* کرد_*	تعیین کرد	VERB	A2.2 A7+ X6+ S7.1+	determine, appoint
+تعیین_* کردن_*	تعیین کردن	NOUN	A2.2 A7+ X6+ S7.1+	determine, appoint
+تغییر_* داد_*	تغییر داد	VERB	A2.1+	change
+تغییر_* دادن_*	تغییر دادن	NOUN	A2.1+	change
+تغییر_* کرد_*	تغییر کرد	VERB	A2.1+	change
+تغییر_* کردن_*	تغییر کردن	NOUN	A2.1+	change
+تقسیم_* کرد_*	تقسیم کرد	VERB	A6.1- A9-/N5.1 N2 A9- I2.2 M2/N3.6	divide, distribute
+تقسیم_* کردن_*	تقسیم کردن	NOUN	A6.1- A9-/N5.1 N2 A9- I2.2 M2/N3.6	divide, distribute
+تلاش_* کرد_*	تلاش کرد	VERB	X8+	make effort
+تلاش_* کردن_*	تلاش کردن	NOUN	X8+	make effort
+تلف_* شد_*	تلف شد	VERB	L1- T2-	perished, died
+تلف_* شدن_*	تلف شدن	NOUN	L1- T2-	to perish, die
+تلفن_* همراه_*	تلفن همراه	NOUN	Q1.3	mobile phone
+تلقی_* شد_*	تلقی شد	VERB	X2.1 X2.4 X6	be considered
+تلقی_* شدن_*	تلقی شدن	NOUN	X2.1 X2.4 X6	be considered
+تلقی_* کرد_*	تلقی کرد	VERB	X2.1 X2.4 X6	consider
+تلقی_* کردن_*	تلقی کردن	NOUN	X2.1 X2.4 X6	consider
+تماشا_* کرد_*	تماشا کرد	VERB	X3.4 S7.1 X2.4 A1.3+ X2.1	watch, view
+تماشا_* کردن_*	تماشا کردن	NOUN	X3.4 S7.1 X2.4 A1.3+ X2.1	watch, view
+تمام_* شد_*	تمام شد	VERB	T2- A1.5.1/N5.1+ A1.1.1 L1- X9.2-	finished, ended
+تمام_* شدن_*	تمام شدن	NOUN	T2- A1.5.1/N5.1+ A1.1.1 L1- X9.2-	to finish, end
+تمام_* کرد_*	تمام کرد	VERB	T2- A1.1.1 L1- X9.2-	completed, finished
+تمام_* کردن_*	تمام کردن	NOUN	T2- A1.1.1 L1- X9.2-	to complete, finish
+تمایل_* داشت_*	تمایل داشت	VERB	X7+	tend to, gravitate to
+تمایل_* داشتن_*	تمایل داشتن	NOUN	Z5	tend to, gravitate to
+تنگه_* هرمز_*	تنگه هرمز	PROPN	Z2	Strait of Hormuz
+ته_* خط_*	ته خط	NOUN	H1/M3 E4.1- X5.2+ A12-	end of the line
+توجه_* کرد_*	توجه کرد	VERB	X5.1+	pay attention
+توجه_* کردن_*	توجه کردن	NOUN	X5.1+	pay attention
+توجیه_* کرد_*	توجیه کرد	VERB	G2.2+ A2.2 O4.1	justify
+توجیه_* کردن_*	توجیه کردن	NOUN	G2.2+ A2.2 O4.1	justify
+توزیع_* شد_*	توزیع شد	VERB	A3+ A9-	be distributed
+توزیع_* شدن_*	توزیع شدن	NOUN	A3+ A9-	be distributed
+توسعه_* داد_*	توسعه داد	VERB	N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1 A2.1+ T2+ A5.1+/A2.1 H1 A9+ C1	expand, develop
+توسعه_* دادن_*	توسعه دادن	NOUN	N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1 A2.1+ T2+ A5.1+/A2.1 H1 A9+ C1	expand, develop
+توصیف_* کرد_*	توصیف کرد	VERB	Q2.2	describe
+توصیف_* کردن_*	توصیف کردن	NOUN	Q2.2	describe
+توصیه_* کرد_*	توصیه کرد	VERB	Q2.2	recommend
+توصیه_* کردن_*	توصیه کردن	NOUN	Q2.2	recommend
+توضیح_* داد_*	توضیح داد	VERB	Q2.2/A7+ A2.2	explain
+توضیح_* دادن_*	توضیح دادن	NOUN	Q2.2/A7+ A2.2	explain
+تولید_* شد_*	تولید شد	VERB	A1.1.1	be produced
+تولید_* شدن_*	تولید شدن	NOUN	A1.1.1	be produced
+تولید_* کرد_*	تولید کرد	VERB	A1.1.1 A2.2 I4 K4 K3 Q4.3 F4	produce
+تولید_* کردن_*	تولید کردن	NOUN	A1.1.1 A2.2 I4 K4 K3 Q4.3 F4	produce
+تکرار_* کرد_*	تکرار کرد	VERB	N6+ Q2.1/N6+	repeat
+تکرار_* کردن_*	تکرار کردن	NOUN	N6+ Q2.1/N6+	repeat
+تکمیل_* کرد_*	تکمیل کرد	VERB	T2- Q1.2	complete
+تکمیل_* کردن_*	تکمیل کردن	NOUN	T2- Q1.2	complete
+ثابت_* کرد_*	ثابت کرد	VERB	A5.2+ X2.4	prove
+ثابت_* کردن_*	ثابت کردن	NOUN	A5.2+ X2.4	prove
+جا_* گذاشت_*	جا گذاشت	VERB	X2.2- A9-	leave behind
+جا_* گذاشتن_*	جا گذاشتن	NOUN	X2.2- A9-	leave behind
+جا_* گرفت_*	جا گرفت	VERB	A9+ N3.2	reserve, hold
+جا_* گرفتن_*	جا گرفتن	NOUN	A9+ N3.2	reserve, hold
+جان_* داد_*	جان داد	VERB	L1- T2-	died (gave up one's soul)
+جان_* دادن_*	جان دادن	NOUN	L1- T2-	to die (give up one's soul)
+جان_* سپرد_*	جان سپرد	VERB	L1- T2-	died (surrendered one's soul)
+جان_* سپردن_*	جان سپردن	NOUN	L1- T2-	to die (surrender one's soul)
+جدا_* شد_*	جدا شد	VERB	S3.1-	be separated
+جدا_* شدن_*	جدا شدن	NOUN	S3.1-	be separated
+جدا_* کرد_*	جدا کرد	VERB	A6.1- S3.1-	separate
+جدا_* کردن_*	جدا کردن	NOUN	A6.1- S3.1-	separate
+جدال_* کرد_*	جدال کرد	VERB	G3 S7.3 Q2.1 Q2.1/A6.1- Q2.1/E3-	argued, disputed
+جدال_* کردن_*	جدال کردن	NOUN	G3 S7.3 Q2.1 Q2.1/A6.1- Q2.1/E3-	to argue, dispute
+جراحی_* کرد_*	جراحی کرد	VERB	B3	performed surgery
+جراحی_* کردن_*	جراحی کردن	NOUN	B3	to perform surgery
+جشن_* گرفت_*	جشن گرفت	VERB	K1 E4.1+	celebrate
+جشن_* گرفتن_*	جشن گرفتن	NOUN	K1 E4.1+	celebrate
+جلو_* رفت_*	جلو رفت	VERB	M1 A5.1+/A2.1+	advanced
+جلو_* رفتن_*	جلو رفتن	NOUN	M1 A5.1+/A2.1+	to advance
+جلوگیری_* کرد_*	جلوگیری کرد	VERB	S8-	prevent
+جلوگیری_* کردن_*	جلوگیری کردن	NOUN	S8-	prevent
+جمع_* شد_*	جمع شد	VERB	S5+ A9+ N5+/A2.1 X2.5+ A1.1.1%	gather
+جمع_* شدن_*	جمع شدن	NOUN	S5+ A9+ N5+/A2.1 X2.5+ A1.1.1%	gather
+جمع_* کرد_*	جمع کرد	VERB	A9+	collect
+جمع_* کردن_*	جمع کردن	NOUN	A9+	collect
+جمهوری_* اسلامی_*	جمهوری اسلامی	PROPN	Z2	Islamic Republic
+جنگ_* کرد_*	جنگ کرد	VERB	G3 S7.3	fought (war)
+جنگ_* کردن_*	جنگ کردن	NOUN	G3 S7.3	to fight (war)
+جواب_* داد_*	جواب داد	VERB	Q2.2	reply
+جواب_* دادن_*	جواب دادن	NOUN	Q2.2	reply
+حال_* کرد_*	حال کرد	VERB	E4.1+	enjoyed (colloquial)
+حال_* کردن_*	حال کردن	NOUN	E4.1+	to enjoy (colloquial)
+حاکی_* بود_*	حاکی بود	VERB	A10+ M6 Q1.1/M3	indicate
+حاکی_* بودن_*	حاکی بودن	NOUN	A10+ M6 Q1.1/M3	indicate
+حذف_* شد_*	حذف شد	VERB	A9- E3/L1-	be eliminated
+حذف_* شدن_*	حذف شدن	NOUN	A9- E3/L1-	be eliminated
+حذف_* کرد_*	حذف کرد	VERB	A9- E3/L1- Q1.2 A1.1.2	eliminate, delete
+حذف_* کردن_*	حذف کردن	NOUN	A9- E3/L1- Q1.2 A1.1.2	eliminate, delete
+حرف_* زد_*	حرف زد	VERB	Q2.1	speak
+حرف_* زدن_*	حرف زدن	NOUN	Q2.1	speak
+حرکت_* کرد_*	حرکت کرد	VERB	M1	moved
+حرکت_* کردن_*	حرکت کردن	NOUN	M1	to move
+حساب_* کرد_*	حساب کرد	VERB	N2 X7+ Y2	calculate, compute
+حساب_* کردن_*	حساب کردن	NOUN	N2 X7+ Y2	calculate, compute
+حفظ_* کرد_*	حفظ کرد	VERB	S8+/A15+ A10- X2.2+ X2.3+	protect, memorize
+حفظ_* کردن_*	حفظ کردن	NOUN	S8+/A15+ A10- X2.2+ X2.3+	protect, memorize
+حل_* شد_*	حل شد	VERB	A1.1.1 T2- X9.2+	dissolve, be solved
+حل_* شدن_*	حل شدن	NOUN	A1.1.1 T2- X9.2+	dissolve, be solved
+حل_* و_* فصل_*	حل و فصل	NOUN	X9.2+ X6+	settling, resolving (a dispute)
+حل_* کرد_*	حل کرد	VERB	X9.2+	solve
+حل_* کردن_*	حل کردن	NOUN	X9.2+	solve
+حمل_* و_* نقل_*	حمل و نقل	NOUN	M3	transport
+حمله_* کرد_*	حمله کرد	VERB	E3- G3 B2- A1.1.2 Q2.2	attacked
+حمله_* کردن_*	حمله کردن	NOUN	E3- G3 B2- A1.1.2 Q2.2	to attack
+خارج_* شد_*	خارج شد	VERB	M1 M2 A1.1.1 A1.9 A9- T2-	leave
+خارج_* شدن_*	خارج شدن	NOUN	M1 M2 A1.1.1 A1.9 A9- T2-	leave
+خبر_* داد_*	خبر داد	VERB	X2.2+ X2.4 Q2.1	inform
+خبر_* دادن_*	خبر دادن	NOUN	X2.2+ X2.4 Q2.1	inform
+خبر_* داشت_*	خبر داشت	VERB	X2.2+ S3.2/B1%	know, be aware
+خبر_* داشتن_*	خبر داشتن	NOUN	X2.2+ S3.2/B1%	know, be aware
+خریداری_* کرد_*	خریداری کرد	VERB	I2.2	purchase
+خریداری_* کردن_*	خریداری کردن	NOUN	I2.2	purchase
+خسته_* شد_*	خسته شد	VERB	B1 B2- X5.2-	become tired
+خسته_* شدن_*	خسته شدن	NOUN	B1 B2- X5.2-	become tired
+خط_* لوله_*	خط لوله	NOUN	O2	pipeline
+خلیج_* فارس_*	خلیج فارس	PROPN	Z2	Persian Gulf
+خواستار_* شد_*	خواستار شد	VERB	Q2.2 S6+ X7+	demand
+خواستار_* شدن_*	خواستار شدن	NOUN	Q2.2 S6+ X7+	demand
+خواهش_* کرد_*	خواهش کرد	VERB	Q2.2 Q2.1 Q2.2/E6-	request, beg
+خواهش_* کردن_*	خواهش کردن	NOUN	Q2.2 Q2.1 Q2.2/E6-	request, beg
+خودداری_* کرد_*	خودداری کرد	VERB	A1.9	refrain
+خودداری_* کردن_*	خودداری کردن	NOUN	A1.9	refrain
+خوش_* آمد_*	خوش آمد	VERB	Q2.2 S1.1.1	welcome
+خوش_* آمدن_*	خوش آمدن	NOUN	Q2.2 S1.1.1	welcome
+خوشحال_* شد_*	خوشحال شد	VERB	E4.1+ E4.2+	became happy
+خوشحال_* شدن_*	خوشحال شدن	NOUN	E4.1+ E4.2+	to become happy
+خوشحال_* کرد_*	خوشحال کرد	VERB	E4.1+ E4.2+	made (someone) happy
+خوشحال_* کردن_*	خوشحال کردن	NOUN	E4.1+ E4.2+	to make (someone) happy
+دامن_* زد_*	دامن زد	VERB	A1.1.1 A2.2	add fuel
+دامن_* زدن_*	دامن زدن	NOUN	A1.1.1 A2.2	add fuel
+دخالت_* کرد_*	دخالت کرد	VERB	S1.1.3+++	interfere
+دخالت_* کردن_*	دخالت کردن	NOUN	S1.1.3+++	interfere
+در_* اختیار_*	در اختیار	ADP	A9+	at the disposal of
+در_* بر_* گرفت_*	در بر گرفت	VERB	A1.8+	include
+در_* بر_* گرفتن_*	در بر گرفتن	NOUN	A1.8+	include
+در_* حال_*	در حال	ADP	T1.1.2 A1.1.1	in the process of
+در_* حال_* حاضر_*	در حال حاضر	ADV	T1.1.2	currently, at present
+در_* حدود_*	در حدود	ADP	A13.4	approximately
+در_* خصوص_*	در خصوص	ADP	Z5	regarding, about
+در_* رابطه_* با_*	در رابطه با	ADP	Z5	regarding
+در_* زد_*	در زد	VERB	X3.2 A1.1.1 E3- Q2.2 S3.2@	knock
+در_* زدن_*	در زدن	NOUN	X3.2 A1.1.1 E3- Q2.2 S3.2@	knock
+در_* صورت_*	در صورت	ADP	Z7	in case of, if
+در_* صورتی_* که_*	در صورتی که	SCONJ	Z7	if, whereas
+در_* طول_*	در طول	ADP	Z5	during
+در_* عین_* حال_*	در عین حال	ADV	Z4	at the same time, nevertheless
+در_* مجموع_*	در مجموع	ADV	N5.1+	in total, overall
+در_* مورد_*	در مورد	ADP	Z5	about
+در_* پی_*	در پی	ADP	Z5	following, after; in pursuit of
+دربر_* گرفت_*	دربر گرفت	VERB	A1.8+	include
+دربر_* گرفتن_*	دربر گرفتن	NOUN	A1.8+	include
+درخواست_* کرد_*	درخواست کرد	VERB	Q2.2 Q2.1	request
+درخواست_* کردن_*	درخواست کردن	NOUN	Q2.2 Q2.1	request
+درست_* بود_*	درست بود	VERB	A5.3+/A2.1	be right
+درست_* بودن_*	درست بودن	NOUN	A5.3+/A2.1	be right
+درست_* کرد_*	درست کرد	VERB	A5.3+/A2.1 A1.1.1 F1	correct, prepare
+درست_* کردن_*	درست کردن	NOUN	A5.3+/A2.1 A1.1.1 F1	correct, prepare
+درک_* کرد_*	درک کرد	VERB	X2.5+	comprehend
+درک_* کردن_*	درک کردن	NOUN	X2.5+	comprehend
+درگیر_* شد_*	درگیر شد	VERB	A1.8+ A12- X5.2+ G3	got involved, clashed
+درگیر_* شدن_*	درگیر شدن	NOUN	A1.8+ A12- X5.2+ G3	to get involved, clash
+دریافت_* کرد_*	دریافت کرد	VERB	A9+ S5+	receive
+دریافت_* کردن_*	دریافت کردن	NOUN	A9+ S5+	receive
+دست_* به_* دست_* هم_* داد_*	دست به دست هم داد	VERB	S8+	joined forces, cooperated
+دست_* به_* دست_* هم_* دادن_*	دست به دست هم دادن	NOUN	S8+	to join forces, cooperate
+دست_* داد_*	دست داد	VERB	S1.1.1	shook hands
+دست_* دادن_*	دست دادن	NOUN	S1.1.1	to shake hands
+دستور_* داد_*	دستور داد	VERB	S7.1+/Q2.2 I2.2/Q2.2	order
+دستور_* دادن_*	دستور دادن	NOUN	S7.1+/Q2.2 I2.2/Q2.2	order
+دستور_* کار_*	دستور کار	NOUN	X7+	agenda
+دفاع_* کرد_*	دفاع کرد	VERB	S8+ G3 G2.1c Q2.2 K5.1 S7.3+	defended
+دفاع_* کردن_*	دفاع کردن	NOUN	S8+ G3 G2.1c Q2.2 K5.1 S7.3+	to defend
+دل_* گرفتن_*	دل گرفتن	NOUN	E4.1-	to become sad, downhearted
+دنبال_* کرد_*	دنبال کرد	VERB	X2.4	look for
+دنبال_* کردن_*	دنبال کردن	NOUN	X2.4	look for
+دوست_* داشت_*	دوست داشت	VERB	E2+	like
+دوست_* داشتن_*	دوست داشتن	NOUN	E2+	like
+دچار_* شد_*	دچار شد	VERB	B2- E4.1- E6-	became afflicted
+دچار_* شدن_*	دچار شدن	NOUN	B2- E4.1- E6-	to become afflicted
+دچار_* کرد_*	دچار کرد	VERB	E6-	afflicted (caused)
+دچار_* کردن_*	دچار کردن	NOUN	E6-	to afflict (cause)
+دی‌اکسید_* کربن_*	دی‌اکسید کربن	NOUN	O1.3	carbon dioxide
+ذکر_* کرد_*	ذکر کرد	VERB	Q2.1 Q2.2 Q1.2 G2.1	mention, cite
+ذکر_* کردن_*	ذکر کردن	NOUN	Q2.1 Q2.2 Q1.2 G2.1	mention, cite
+راضی_* بود_*	راضی بود	VERB	E4.2+ A1.2+	be satisfied
+راضی_* بودن_*	راضی بودن	NOUN	E4.2+ A1.2+	be satisfied
+راه_* افتاد_*	راه افتاد	VERB	M1 T2+ A1.1.1	departed, set off
+راه_* افتادن_*	راه افتادن	NOUN	M1 T2+ A1.1.1	to depart, set off
+راه_* انداخت_*	راه انداخت	VERB	A1.1.1 T2+ M2	launched, started (something)
+راه_* انداختن_*	راه انداختن	NOUN	A1.1.1 T2+ M2	to launch, start (something)
+راه_* برد_*	راه برد	VERB	S8+/M2	helped (someone infirm) walk
+راه_* بردن_*	راه بردن	NOUN	S8+/M2	to help (someone infirm) walk
+راه_* بست_*	راه بست	VERB	S8-	blocked the way
+راه_* بستن_*	راه بستن	NOUN	S8-	to block the way
+راه_* داد_*	راه داد	VERB	S7.4+/M1 S8+	allowed passage, granted access
+راه_* دادن_*	راه دادن	NOUN	S7.4+/M1 S8+	to allow passage, grant access
+راه_* رفت_*	راه رفت	VERB	M1 L2 X9.2+/A12+	walked
+راه_* رفتن_*	راه رفتن	NOUN	M1 L2 X9.2+/A12+	to walk
+راه_* یافت_*	راه یافت	VERB	X9.2+ M1	gained access, found a way
+راه_* یافتن_*	راه یافتن	NOUN	X9.2+ M1	to gain access, find a way
+رخ_* داد_*	رخ داد	VERB	A2.1+ A3+	happened, took place
+رخ_* دادن_*	رخ دادن	NOUN	A2.1+ A3+	to happen
+رد_* کرد_*	رد کرد	VERB	X7-	reject
+رد_* کردن_*	رد کردن	NOUN	X7-	reject
+رزم_* آورد_*	رزم آورد	VERB	T2+ G3 A6.1- S7.3+ Q2.2	engaged in battle
+رزم_* آوردن_*	رزم آوردن	NOUN	T2+ G3 A6.1- S7.3+ Q2.2	to engage in battle
+رزم_* کرد_*	رزم کرد	VERB	S8- X8+ E3-	fought, battled
+رزم_* کردن_*	رزم کردن	NOUN	S8- X8+ E3-	to fight, battle
+رشته‌کوه_*	رشته کوه	NOUN	W3	mountain range
+رشد_* کرد_*	رشد کرد	VERB	N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4	grow
+رشد_* کردن_*	رشد کردن	NOUN	N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4	grow
+رفتار_* کرد_*	رفتار کرد	VERB	S1.1.1 A1.1.1	behave
+رفتار_* کردن_*	رفتار کردن	NOUN	S1.1.1 A1.1.1	behave
+رقابت_* کرد_*	رقابت کرد	VERB	S7.3+	competed
+رقابت_* کردن_*	رقابت کردن	NOUN	S7.3+	to compete
+رنگ_* و_* رو_*	رنگ و رو	NOUN	B1 A8	(colloquially) complexion, healthy look
+رها_* شد_*	رها شد	VERB	A1.7-	be freed
+رها_* شدن_*	رها شدن	NOUN	A1.7-	to be freed
+رها_* کرد_*	رها کرد	VERB	S6- A1.7- K1	free, let go
+رها_* کردن_*	رها کردن	NOUN	S6- A1.7- K1	free, let go
+رهسپار_* شد_*	رهسپار شد	VERB	M1	departed
+رهسپار_* شدن_*	رهسپار شدن	NOUN	M1	to depart
+رو_* آورد_*	رو آورد	VERB	M2 M1 O4.4 A1.1.1 A2.1+ O4.2-	turn
+رو_* آوردن_*	رو آوردن	NOUN	M2 M1 O4.4 A1.1.1 A2.1+ O4.2-	turn
+رو_* شد_*	رو شد	VERB	A10+ A15- Z3	be exposed, bold
+رو_* شدن_*	رو شدن	NOUN	A10+ A15- Z3	be exposed, bold
+رو_* کرد_*	رو کرد	VERB	M1 S1.1.1 T2+ A2.1+ X3.4 X2.4 X2.1	turn to, look at
+رو_* کردن_*	رو کردن	NOUN	M1 S1.1.1 T2+ A2.1+ X3.4 X2.4 X2.1	turn to, look at
+روبرو_* شد_*	روبرو شد	VERB	S3.1 M6 A1.1.1 X9.2+ A6.1+	meet
+روبرو_* شدن_*	روبرو شدن	NOUN	S3.1 M6 A1.1.1 X9.2+ A6.1+	meet
+روح_* و_* روان_*	روح و روان	NOUN	X2 B2/X2	mind and spirit, mental (state)
+زانوی_* غم_* بغل_* کرد_*	زانوی غم بغل کرد	VERB	E4.1-	hugged one's knee in grief (idiom for overwhelming grief)
+زانوی_* غم_* بغل_* کردن_*	زانوی غم بغل کردن	NOUN	E4.1-	to hug one's knee in grief (idiom for overwhelming grief)
+زجر_* کشید_*	زجر کشید	VERB	E4.1- B2- X3	to suffer , be tormented
+زجر_* کشیدن_*	زجر کشیدن	NOUN	E4.1- B2- X3	to suffer , be tormented
+زندگی_* کرد_*	زندگی کرد	VERB	H4 L1+ A3	live
+زندگی_* کردن_*	زندگی کردن	NOUN	H4 L1+ A3	live
+زنگ_* زد_*	زنگ زد	VERB	Q1.3 X3.2 A8 O4.4	ring
+زنگ_* زدن_*	زنگ زدن	NOUN	Q1.3 X3.2 A8 O4.4	ring
+سؤال_* کرد_*	سؤال کرد	VERB	Q2.2	ask
+سؤال_* کردن_*	سؤال کردن	NOUN	Q2.2	ask
+سازمان_* ملل_*	سازمان ملل	PROPN	G1.1 Z3	United Nations
+سازمان_* ملل_* متحد_*	سازمان ملل متحد	PROPN	G1.1 Z3	United Nations
+سال_* بود_*	سال بود	VERB	T1.3	be years since
+سال_* بودن_*	سال بودن	NOUN	T1.3	be years since
+سال_* داشت_*	سال داشت	VERB	T3	be years old
+سال_* داشتن_*	سال داشتن	NOUN	T3	be years old
+ساله_* بود_*	ساله بود	VERB	T3	be years old
+ساله_* بودن_*	ساله بودن	NOUN	T3	be years old
+ستیز_* کرد_*	ستیز کرد	VERB	X8+ S8- E3-	fought, contended
+ستیز_* کردن_*	ستیز کردن	NOUN	X8+ S8- E3-	to fight, contend
+سخن_* گفت_*	سخن گفت	VERB	Q2.1	speak, talk
+سخن_* گفتن_*	سخن گفتن	NOUN	Q2.1	speak, talk
+سراغ_* آمد_*	سراغ آمد	VERB	S1.1.1 M1 G3	to come to visit/look for; (of illness/trouble) to strike suddenly
+سراغ_* آمدن_*	سراغ آمدن	NOUN	S1.1.1 M1 G3	to come to visit/look for; (of illness/trouble) to strike suddenly
+سرم_* زد_*	سرم زد	VERB	B3 O1.2/N5	administered an IV drip
+سرم_* زدن_*	سرم زدن	NOUN	B3 O1.2/N5	to administer an IV drip
+سعی_* کرد_*	سعی کرد	VERB	X8+ X2.4 Q2.2 G2.1 A12-	try
+سعی_* کردن_*	سعی کردن	NOUN	X8+ X2.4 Q2.2 G2.1 A12-	try
+سفر_* کرد_*	سفر کرد	VERB	M1	traveled
+سفر_* کردن_*	سفر کردن	NOUN	M1	to travel
+سلامت_* روح_* و_* روان_*	سلامت روح و روان	NOUN	B2/X1	mental health
+سوق_* داد_*	سوق داد	VERB	S8+ M3 A1.1.1 X5.2+ M2 S7.1+	guide, drive
+سوق_* دادن_*	سوق دادن	NOUN	S8+ M3 A1.1.1 X5.2+ M2 S7.1+	guide, drive
+سپری_* کرد_*	سپری کرد	VERB	X7+/T1 N3.1/T1	spend time
+سپری_* کردن_*	سپری کردن	NOUN	X7+/T1 N3.1/T1	spend time
+شاهد_* بود_*	شاهد بود	VERB	X3.4 G2.1 A10+@ S9	witness
+شاهد_* بودن_*	شاهد بودن	NOUN	X3.4 G2.1 A10+@ S9	witness
+شبه‌جزیره_*	شبه جزیره	NOUN	W3	peninsula
+شبیخون_* زد_*	شبیخون زد	VERB	G3 G2.1 A9+	staged a night raid
+شبیخون_* زدن_*	شبیخون زدن	NOUN	G3 G2.1 A9+	to stage a night raid
+شروع_* شد_*	شروع شد	VERB	T2+	began
+شروع_* شدن_*	شروع شدن	NOUN	T2+	to begin
+شروع_* کرد_*	شروع کرد	VERB	T2+	started
+شروع_* کردن_*	شروع کردن	NOUN	T2+	to start
+شرکت_* داشت_*	شرکت داشت	VERB	S1.1.3+	participate, attend
+شرکت_* داشتن_*	شرکت داشتن	NOUN	S1.1.3+	participate, attend
+شرکت_* کرد_*	شرکت کرد	VERB	S1.1.3+	participate
+شرکت_* کردن_*	شرکت کردن	NOUN	S1.1.3+	participate
+شفا_* داد_*	شفا داد	VERB	B3 B2+/A2.1 A5.1+/A2.1	healed, cured (someone)
+شفا_* دادن_*	شفا دادن	NOUN	B3 B2+/A2.1 A5.1+/A2.1	to heal, cure (someone)
+شفا_* یافت_*	شفا یافت	VERB	B2+ A5.1+/A2.1 A9+	recovered, was healed
+شفا_* یافتن_*	شفا یافتن	NOUN	B2+ A5.1+/A2.1 A9+	to recover, be healed
+شناسایی_* کرد_*	شناسایی کرد	VERB	X2.2+ A10+ X2.5+	identify
+شناسایی_* کردن_*	شناسایی کردن	NOUN	X2.2+ A10+ X2.5+	identify
+شوک_* شد_*	شوک شد	VERB	E5- S1.2.4-	was shocked
+شوک_* شدن_*	شوک شدن	NOUN	E5- S1.2.4-	to be shocked
+شکایت_* کرد_*	شکایت کرد	VERB	Q2.2/E2-	complain
+شکایت_* کردن_*	شکایت کردن	NOUN	Q2.2/E2-	complain
+شکست_* خورد_*	شکست خورد	VERB	X9.2-	was defeated
+شکست_* خوردن_*	شکست خوردن	NOUN	X9.2-	to be defeated
+شکست_* داد_*	شکست داد	VERB	X9.2+/G3 X9.2+/S7.3 A12-	defeated
+شکست_* دادن_*	شکست دادن	NOUN	X9.2+/G3 X9.2+/S7.3 A12-	to defeat
+صادر_* شد_*	صادر شد	VERB	A9-	be exported, issued
+صادر_* شدن_*	صادر شدن	NOUN	A9-	be exported, issued
+صادر_* کرد_*	صادر کرد	VERB	I2.2/M2 A9-	export, issue
+صادر_* کردن_*	صادر کردن	NOUN	I2.2/M2 A9-	export, issue
+صحبت_* کرد_*	صحبت کرد	VERB	Q2.1	talk
+صحبت_* کردن_*	صحبت کردن	NOUN	Q2.1	talk
+صرف_* شد_*	صرف شد	VERB	I1.2 A1.5.1 T1.3 F1	be spent, consumed, conjugated
+صرف_* شدن_*	صرف شدن	NOUN	I1.2 A1.5.1 T1.3 F1	be spent, consumed, conjugated
+صرف_* کرد_*	صرف کرد	VERB	A1.5.1 F1	spend time, consume, conjugate
+صرف_* کردن_*	صرف کردن	NOUN	A1.5.1 F1	spend time, consume, conjugate
+طراحی_* کرد_*	طراحی کرد	VERB	C1 X7+	design
+طراحی_* کردن_*	طراحی کردن	NOUN	C1 X7+	design
+طول_* کشید_*	طول کشید	VERB	X7+	last long
+طول_* کشیدن_*	طول کشیدن	NOUN	X7+	last long
+طی_* شد_*	طی شد	VERB	T1.3 M1	passed, elapsed
+طی_* شدن_*	طی شدن	NOUN	T1.3 M1	to pass, elapse
+طی_* کرد_*	طی کرد	VERB	M1	traversed
+طی_* کردن_*	طی کردن	NOUN	M1	to traverse
+ظاهر_* شد_*	ظاهر شد	VERB	A8 A10+ A3+ G2.1 K4 Q4	appear
+ظاهر_* شدن_*	ظاهر شدن	NOUN	A8 A10+ A3+ G2.1 K4 Q4	appear
+عبور_* کرد_*	عبور کرد	VERB	M1	crossed, passed through
+عبور_* کردن_*	عبور کردن	NOUN	M1	to cross, pass through
+عرضه_* کرد_*	عرضه کرد	VERB	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4	present, offer, supply
+عرضه_* کردن_*	عرضه کردن	NOUN	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4	present, offer, supply
+عقب_* رفت_*	عقب رفت	VERB	M1 A5.1-/A2.1	retreated, regressed
+عقب_* رفتن_*	عقب رفتن	NOUN	M1 A5.1-/A2.1	to retreat, regress
+عقب‌نشینی_* کرد_*	عقب‌نشینی کرد	VERB	M1 G3 A1.9	retreated
+عقب‌نشینی_* کردن_*	عقب‌نشینی کردن	NOUN	M1 G3 A1.9	to retreat
+علاقه_* داشت_*	علاقه داشت	VERB	X5.2+ S1.1.3+	be interested
+علاقه_* داشتن_*	علاقه داشتن	NOUN	X5.2+ S1.1.3+	be interested
+علیه_* السلام_*	علیه السلام	NOUN	Z8m	peace be upon him
+عمل_* کرد_*	عمل کرد	VERB	A1.1.1 B3 X9.2+	operated; performed
+عمل_* کردن_*	عمل کردن	NOUN	A1.1.1 B3 X9.2+	to operate; perform
+غالب_* شد_*	غالب شد	VERB	S7.1+ A11.1+ A11.2+ X9.2+	prevailed, dominated
+غالب_* شدن_*	غالب شدن	NOUN	S7.1+ A11.1+ A11.2+ X9.2+	to prevail, dominate
+غرق_* شد_*	غرق شد	VERB	L1- N5.2+ A10- X9.2-	to drown
+غرق_* شدن_*	غرق شدن	NOUN	L1- N5.2+ A10- X9.2-	to drown
+غصه_* خورد_*	غصه خورد	VERB	E4.1-	to become upset / grieve
+غصه_* خوردن_*	غصه خوردن	NOUN	E4.1-	to become upset / grieve
+غلبه_* کرد_*	غلبه کرد	VERB	X9.2+/S7.3 X9.2+/G3 S7.1+ A2.2/E1 B2-	overcame, triumphed
+غلبه_* کردن_*	غلبه کردن	NOUN	X9.2+/S7.3 X9.2+/G3 S7.1+ A2.2/E1 B2-	to overcome, triumph
+فاتح_* شد_*	فاتح شد	VERB	X9.2+/S7.3 X9.2+/G3 S7.1+	conquered, became victorious
+فاتح_* شدن_*	فاتح شدن	NOUN	X9.2+/S7.3 X9.2+/G3 S7.1+	to conquer, become victorious
+فارسی‌زبان_*	فارسی زبان	ADJ	Z2/Q3	Persian-speaking
+فرا_* گرفت_*	فرا گرفت	VERB	M6 A1.8+ A10- G3 X2.3+ P1	surround, learn
+فرا_* گرفتن_*	فرا گرفتن	NOUN	M6 A1.8+ A10- G3 X2.3+ P1	surround, learn
+فرار_* کرد_*	فرار کرد	VERB	A1.7- X2.2- Y2	escape
+فرار_* کردن_*	فرار کردن	NOUN	A1.7- X2.2- Y2	escape
+فراموش_* کرد_*	فراموش کرد	VERB	X2.2-	forget
+فراموش_* کردن_*	فراموش کردن	NOUN	X2.2-	forget
+فراهم_* کرد_*	فراهم کرد	VERB	S5+ A9+ A1.1.1	assemble
+فراهم_* کردن_*	فراهم کردن	NOUN	S5+ A9+ A1.1.1	assemble
+فنا_* شد_*	فنا شد	VERB	A3- L1-	perished, was annihilated
+فنا_* شدن_*	فنا شدن	NOUN	A3- L1-	to perish, be annihilated
+فوت_* شد_*	فوت شد	VERB	L1-	died
+فوت_* شدن_*	فوت شدن	NOUN	L1-	to die
+فوت_* کرد_*	فوت کرد	VERB	L1- B1 O4.6- A1.1.2	died; blew out
+فوت_* کردن_*	فوت کردن	NOUN	L1- B1 O4.6- A1.1.2	to die; blow out
+فکر_* کرد_*	فکر کرد	VERB	X2.1	think
+فکر_* کردن_*	فکر کردن	NOUN	X2.1	think
+قائل_* بود_*	قائل بود	VERB	X2.1 S9% Q2.2/A5.2	believe, profess
+قائل_* بودن_*	قائل بودن	NOUN	X2.1 S9% Q2.2/A5.2	believe, profess
+قبل_* از_*	قبل از	ADP	Z5	before
+قبول_* داشت_*	قبول داشت	VERB	A9+ X2.5+ S1.2.1+ S7.4+	accept
+قبول_* داشتن_*	قبول داشتن	NOUN	A9+ X2.5+ S1.2.1+ S7.4+	accept
+قبول_* کرد_*	قبول کرد	VERB	A9+ X2.5+ S1.2.1+ S7.4+	accept
+قبول_* کردن_*	قبول کردن	NOUN	A9+ X2.5+ S1.2.1+ S7.4+	accept
+قرار_* بود_*	قرار بود	VERB	X7+	be supposed to
+قرار_* بودن_*	قرار بودن	NOUN	Z5	be supposed to
+قرار_* داد_*	قرار داد	VERB	M2 Q2.1 Q2.2 A1.1.1 X2.2+ I3.1	put, place
+قرار_* دادن_*	قرار دادن	NOUN	M2 Q2.1 Q2.2 A1.1.1 X2.2+ I3.1	put, place
+قرار_* داشت_*	قرار داشت	VERB	M6 A10+	be located
+قرار_* داشتن_*	قرار داشتن	NOUN	M6 A10+	be located
+قرار_* گرفت_*	قرار گرفت	VERB	M6 A10+	be located
+قرار_* گرفتن_*	قرار گرفتن	NOUN	M6 A10+	be located
+قصد_* داشت_*	قصد داشت	VERB	X7+	intend
+قصد_* داشتن_*	قصد داشتن	NOUN	X7+	intend
+قطع_* شد_*	قطع شد	VERB	T2- A1.1.1 Q1.3 S5- A10-	be cut off, terminated
+قطع_* شدن_*	قطع شدن	NOUN	T2- A1.1.1 Q1.3 S5- A10-	be cut off, terminated
+قطع_* کرد_*	قطع کرد	VERB	A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3	cut
+قطع_* کردن_*	قطع کردن	NOUN	A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3	cut
+قوی_* شد_*	قوی شد	VERB	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1	became strong
+قوی_* شدن_*	قوی شدن	NOUN	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1	to become strong
+لازم_* داشت_*	لازم داشت	VERB	S6+	need
+لازم_* داشتن_*	لازم داشتن	NOUN	S6+	need
+مبارزه_* کرد_*	مبارزه کرد	VERB	S8- X8+ E3- G3 S7.3+ K5/S7.3+	struggled, fought
+مبارزه_* کردن_*	مبارزه کردن	NOUN	S8- X8+ E3- G3 S7.3+ K5/S7.3+	to struggle, fight
+مبتلا_* شد_*	مبتلا شد	VERB	B2- E4.1- E6-	became afflicted
+مبتلا_* شدن_*	مبتلا شدن	NOUN	B2- E4.1- E6-	to become afflicted
+مبنی_* بر_*	مبنی بر	ADP	Z5	based on, to the effect that
+متوجه_* شد_*	متوجه شد	VERB	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1	notice
+متوجه_* شدن_*	متوجه شدن	NOUN	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1	notice
+متوقف_* شد_*	متوقف شد	VERB	T2- S8- M8 H4 A1.1.1@	stop
+متوقف_* شدن_*	متوقف شدن	NOUN	T2- S8- M8 H4 A1.1.1@	stop
+متوقف_* کرد_*	متوقف کرد	VERB	T2- S8- M8 H4 A1.1.1@	stop
+متوقف_* کردن_*	متوقف کردن	NOUN	T2- S8- M8 H4 A1.1.1@	stop
+متولد_* شد_*	متولد شد	VERB	B1	be born
+متولد_* شدن_*	متولد شدن	NOUN	B1	be born
+محاصره_* شد_*	محاصره شد	VERB	G3 S8-	was besieged
+محاصره_* شدن_*	محاصره شدن	NOUN	G3 S8-	to be besieged
+محاصره_* کرد_*	محاصره کرد	VERB	G3 S8-	besieged
+محاصره_* کردن_*	محاصره کردن	NOUN	G3 S8-	to besiege
+محیط_* زیست_*	محیط زیست	NOUN	W5 W3 E1 Y2 O4.1	environment
+مربوط_* بود_*	مربوط بود	VERB	A1.2+ A1.5.2+	be relevant
+مربوط_* بودن_*	مربوط بودن	NOUN	A1.2+ A1.5.2+	be relevant
+مرتکب_* شد_*	مرتکب شد	VERB	A1.1.1 S6+ A1.7+/G2.1	commit
+مرتکب_* شدن_*	مرتکب شدن	NOUN	A1.1.1 S6+ A1.7+/G2.1	commit
+مسافرت_* کرد_*	مسافرت کرد	VERB	M1	traveled
+مسافرت_* کردن_*	مسافرت کردن	NOUN	M1	to travel
+مسلط_* شد_*	مسلط شد	VERB	S7.1+ A11.1+ A11.2+ X9.2+	gained mastery, dominance
+مسلط_* شدن_*	مسلط شدن	NOUN	S7.1+ A11.1+ A11.2+ X9.2+	to gain mastery, dominance
+مشغول_* بود_*	مشغول بود	VERB	A1.1.1 X5.1+	be busy
+مشغول_* بودن_*	مشغول بودن	NOUN	A1.1.1 X5.1+	be busy
+مصرف_* شد_*	مصرف شد	VERB	A1.5.1 F1	be consumed
+مصرف_* شدن_*	مصرف شدن	NOUN	A1.5.1 F1	be consumed
+مصرف_* کرد_*	مصرف کرد	VERB	A1.5.1 F1	consume
+مصرف_* کردن_*	مصرف کردن	NOUN	A1.5.1 F1	consume
+مطالعه_* کرد_*	مطالعه کرد	VERB	Q3 Q1.2 X3.2+ X2.5+ P1 A10+ X2.4	read, study
+مطالعه_* کردن_*	مطالعه کردن	NOUN	Q3 Q1.2 X3.2+ X2.5+ P1 A10+ X2.4	read, study
+مطرح_* کرد_*	مطرح کرد	VERB	Q2.1 Q2.2/X7+ X4.1	propose, bring up
+مطرح_* کردن_*	مطرح کردن	NOUN	Q2.1 Q2.2/X7+ X4.1	propose, bring up
+معاینه_* شد_*	معاینه شد	VERB	X2.4 B3	was examined
+معاینه_* شدن_*	معاینه شدن	NOUN	X2.4 B3	to be examined
+معاینه_* کرد_*	معاینه کرد	VERB	X2.4 B3	examined
+معاینه_* کردن_*	معاینه کردن	NOUN	X2.4 B3	to examine
+معرفی_* شد_*	معرفی شد	VERB	S1.1.1 T2+	be introduced
+معرفی_* شدن_*	معرفی شدن	NOUN	S1.1.1 T2+	be introduced
+معرفی_* کرد_*	معرفی کرد	VERB	S1.1.1 T2+	introduce
+معرفی_* کردن_*	معرفی کردن	NOUN	S1.1.1 T2+	introduce
+معلوم_* شد_*	معلوم شد	VERB	X2.2+ S3.2/B1%	become known
+معلوم_* شدن_*	معلوم شدن	NOUN	X2.2+ S3.2/B1%	become known
+مغلوب_* شد_*	مغلوب شد	VERB	X9.2-	was defeated
+مغلوب_* شدن_*	مغلوب شدن	NOUN	X9.2-	to be defeated
+مغلوب_* کرد_*	مغلوب کرد	VERB	X9.2+/G3 X9.2+/S7.3 A12-	defeated
+مغلوب_* کردن_*	مغلوب کردن	NOUN	X9.2+/G3 X9.2+/S7.3 A12-	to defeat
+مقاومت_* کرد_*	مقاومت کرد	VERB	S8- S1.2.5+	resisted
+مقاومت_* کردن_*	مقاومت کردن	NOUN	S8- S1.2.5+	to resist
+مقایسه_* کرد_*	مقایسه کرد	VERB	A6.1 A5.1 Q3	compare
+مقایسه_* کردن_*	مقایسه کردن	NOUN	A6.1 A5.1 Q3	compare
+ملی_* شد_*	ملی شد	VERB	G1.1	be nationalized
+ملی_* شدن_*	ملی شدن	NOUN	G1.1	to be nationalized
+منابع_* طبیعی_*	منابع طبیعی	NOUN	W3 A9+	natural resources
+منبع_* طبیعی_*	منبع طبیعی	NOUN	W3 A9+	natural resource
+منتشر_* کرد_*	منتشر کرد	VERB	Q4	publish
+منتشر_* کردن_*	منتشر کردن	NOUN	Q4	publish
+منتقل_* کرد_*	منتقل کرد	VERB	M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5 O4.3 M2 Q2.1	transfer, transmit
+منتقل_* کردن_*	منتقل کردن	NOUN	M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5 O4.3 M2 Q2.1	transfer, transmit
+منفجر_* شد_*	منفجر شد	VERB	A1.1.1 N5+/A2.1 G3	exploded
+منفجر_* شدن_*	منفجر شدن	NOUN	A1.1.1 N5+/A2.1 G3	to explode
+منفجر_* کرد_*	منفجر کرد	VERB	A1.1.1 N5+/A2.1 G3	detonated
+منفجر_* کردن_*	منفجر کردن	NOUN	A1.1.1 N5+/A2.1 G3	to detonate
+مهاجرت_* کرد_*	مهاجرت کرد	VERB	M1/M7	emigrated
+مهاجرت_* کردن_*	مهاجرت کردن	NOUN	M1/M7	to emigrate
+مواجه_* بود_*	مواجه بود	VERB	A1.1.1 S1.1.1	confront
+مواجه_* بودن_*	مواجه بودن	NOUN	A1.1.1 S1.1.1	confront
+مواجه_* شد_*	مواجه شد	VERB	A1.1.1 S1.1.1	be confronted
+مواجه_* شدن_*	مواجه شدن	NOUN	A1.1.1 S1.1.1	be confronted
+موفق_* شد_*	موفق شد	VERB	X9.2+	succeeded
+موفق_* شدن_*	موفق شدن	NOUN	X9.2+	to succeed
+میدان_* جنگ_*	میدان جنگ	NOUN	G3/M7	battlefield
+نابود_* شد_*	نابود شد	VERB	A1.1.2	be destroyed
+نابود_* شدن_*	نابود شدن	NOUN	A1.1.2	be destroyed
+نابود_* کرد_*	نابود کرد	VERB	A1.1.2	destroy
+نابود_* کردن_*	نابود کردن	NOUN	A1.1.2	destroy
+نادیده_* گرفت_*	نادیده گرفت	VERB	M6 X3.4- X3.4	overlook
+نادیده_* گرفتن_*	نادیده گرفتن	NOUN	M6 X3.4- X3.4	overlook
+نازل_* شد_*	نازل شد	VERB	M1 S9 N5-/A2.1	descended, was revealed (religious)
+نازل_* شدن_*	نازل شدن	NOUN	M1 S9 N5-/A2.1	to descend, be revealed (religious)
+نجات_* پیدا_* کرد_*	نجات پیدا کرد	VERB	S8+ A3+/T2++ L1+	was rescued, escaped
+نجات_* پیدا_* کردن_*	نجات پیدا کردن	NOUN	S8+ A3+/T2++ L1+	to be rescued, escape
+نرخ_* تورم_*	نرخ تورم	NOUN	I1.3+ N5	inflation rate
+نسبت_* به_*	نسبت به	ADP	A6.1 A2.2	compared to, towards
+نشان_* داد_*	نشان داد	VERB	A10+ S1.1.1	show
+نشان_* دادن_*	نشان دادن	NOUN	A10+ S1.1.1	show
+نشان_* دهنده_*	نشان دهنده	NOUN	A10+ O2 M3/O4.3	indicator
+نماینده_* مجلس_*	نماینده مجلس	NOUN	G1.1/S2mf	member of parliament
+نگاه_* کرد_*	نگاه کرد	VERB	X3.4 X2.4 X7+ Z4	look
+نگاه_* کردن_*	نگاه کردن	NOUN	X3.4 X2.4 X7+ Z4	look
+نگه_* داشت_*	نگه داشت	VERB	A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4	keep
+نگه_* داشتن_*	نگه داشتن	NOUN	A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4	keep
+نیاز_* داشت_*	نیاز داشت	VERB	S6+	need
+نیاز_* داشتن_*	نیاز داشتن	NOUN	S6+	need
+نیرو_* گرفت_*	نیرو گرفت	VERB	S1.2.5+ S7.1+ X9.1+ O4.1 N5 X5.2+	gained strength
+نیرو_* گرفتن_*	نیرو گرفتن	NOUN	S1.2.5+ S7.1+ X9.1+ O4.1 N5 X5.2+	to gain strength
+هجرت_* کرد_*	هجرت کرد	VERB	M1/M7	emigrated
+هجرت_* کردن_*	هجرت کردن	NOUN	M1/M7	to emigrate
+هجری_* شمسی_*	هجری شمسی	ADJ	T1.3	solar Hijri
+هجری_* قمری_*	هجری قمری	ADJ	T1.3	lunar Hijri
+هجوم_* آورد_*	هجوم آورد	VERB	G3 X7- M1	invaded
+هجوم_* آوردن_*	هجوم آوردن	NOUN	G3 X7- M1	to invade
+هجوم_* برد_*	هجوم برد	VERB	G3 X7- M1	invaded
+هجوم_* بردن_*	هجوم بردن	NOUN	G3 X7- M1	to invade
+هدایت_* کرد_*	هدایت کرد	VERB	S8+	guide
+هدایت_* کردن_*	هدایت کردن	NOUN	S8+	guide
+هدف_* قرار_* داد_*	هدف قرار داد	VERB	X7+	targeted
+هدف_* قرار_* دادن_*	هدف قرار دادن	NOUN	X7+	to target
+هدف_* گرفت_*	هدف گرفت	VERB	X7+	targeted
+هدف_* گرفتن_*	هدف گرفتن	NOUN	X7+	to target
+هزینه_* کرد_*	هزینه کرد	VERB	I1.2 A1.5.1	expend
+هزینه_* کردن_*	هزینه کردن	NOUN	I1.2 A1.5.1	expend
+هلاک_* شد_*	هلاک شد	VERB	L1- T2-	died, perished
+هلاک_* شدن_*	هلاک شدن	NOUN	L1- T2-	to die, perish
+واجد_* شرایط_*	واجد شرایط	ADJ	A1.2+ S4 A1.2+/I3.2+ A1.7+	eligible, qualified
+وارد_* شد_*	وارد شد	VERB	M1 S5+ Q1.2 T2+ Y2	enter
+وارد_* شدن_*	وارد شدن	NOUN	M1 S5+ Q1.2 T2+ Y2	enter
+وارد_* کرد_*	وارد کرد	VERB	I2.2/M2 M1 S5+ Q1.2 Y2 A2.2/E4.1-	import, enter
+وارد_* کردن_*	وارد کردن	NOUN	I2.2/M2 M1 S5+ Q1.2 Y2 A2.2/E4.1-	import, enter
+واقع_* شد_*	واقع شد	VERB	M6 A3+ A2.1+ X7- A10+	happen, be located
+واقع_* شدن_*	واقع شدن	NOUN	M6 A3+ A2.1+ X7- A10+	happen, be located
+واگذار_* کرد_*	واگذار کرد	VERB	A9-	hand over
+واگذار_* کردن_*	واگذار کردن	NOUN	A9-	hand over
+وجود_* داشت_*	وجود داشت	VERB	A3+	exist
+وجود_* داشتن_*	وجود داشتن	NOUN	A3+	exist
+ورم_* کرد_*	ورم کرد	VERB	X3.2+/A2.1 O4.4/A2.1 N5+/A2.1	swelled
+ورم_* کردن_*	ورم کردن	NOUN	X3.2+/A2.1 O4.4/A2.1 N5+/A2.1	to swell
+وضع_* حمل_*	وضع حمل	NOUN	B1/S4	childbirth, giving birth
+وفات_* کرد_*	وفات کرد	VERB	L1-	died (formal)
+وفات_* کردن_*	وفات کردن	NOUN	L1-	to die (formal)
+وفات_* یافت_*	وفات یافت	VERB	L1-	died (formal)
+وفات_* یافتن_*	وفات یافتن	NOUN	L1-	to die (formal)
+ویزیت_* شد_*	ویزیت شد	VERB	Q2.1 B3 X2.3	was examined, consulted
+ویزیت_* شدن_*	ویزیت شدن	NOUN	Q2.1 B3 X2.3	to be examined, consulted
+ویزیت_* کرد_*	ویزیت کرد	VERB	Q2.1 B3 X2.3	examined, consulted (doctor)
+ویزیت_* کردن_*	ویزیت کردن	NOUN	Q2.1 B3 X2.3	to examine, consult (doctor)
+پا_* پس_* کشید_*	پا پس کشید	VERB	M1 A2.1+ M2	withdrew, backed out
+پا_* پس_* کشیدن_*	پا پس کشیدن	NOUN	M1 A2.1+ M2	to withdraw, back out
+پاسخ_* داد_*	پاسخ داد	VERB	Q2.2	reply
+پاسخ_* دادن_*	پاسخ دادن	NOUN	Q2.2	reply
+پر_* کرد_*	پر کرد	VERB	N5.1+ I3.1 Q1.2@	fill
+پر_* کردن_*	پر کردن	NOUN	N5.1+ I3.1 Q1.2@	fill
+پرتاب_* کرد_*	پرتاب کرد	VERB	M2 A2.2 Q2.2 A1.1.1 X2.5- M4 M5 T2+	be thrown, launched
+پرتاب_* کردن_*	پرتاب کردن	NOUN	M2 A2.2 Q2.2 A1.1.1 X2.5- M4 M5 T2+	be thrown, launched
+پس_* از_*	پس از	ADP	Z5	after
+پس_* رفت_*	پس رفت	NOUN	A5.1-/A2.1	regression
+پس_* رفت_*	پس رفت	VERB	M1 A5.1-/A2.1	retreated, regressed
+پس_* رفت_* کرد_*	پس رفت کرد	VERB	A5.1-/A2.1	regressed
+پس_* رفت_* کردن_*	پس رفت کردن	NOUN	A5.1-/A2.1	to regress
+پس_* رفتن_*	پس رفتن	NOUN	M1 A5.1-/A2.1	to retreat, regress
+پس_* گرفت_*	پس گرفت	VERB	M2 Q2.2 T1.1.1 E5- M1 S1.1.3- A2.1+	take back, withdraw
+پس_* گرفتن_*	پس گرفتن	NOUN	M2 Q2.2 T1.1.1 E5- M1 S1.1.3- A2.1+	take back, withdraw
+پنهان_* کرد_*	پنهان کرد	VERB	A10-	hide
+پنهان_* کردن_*	پنهان کردن	NOUN	A10-	hide
+پی_* برد_*	پی برد	VERB	A10+ X2.3+	discover, find out
+پی_* بردن_*	پی بردن	NOUN	A10+ X2.3+	discover, find out
+پی_* گرفت_*	پی گرفت	VERB	X2.4/N4	follow up
+پی_* گرفتن_*	پی گرفتن	NOUN	X2.4/N4	follow up
+پیاده_* کرد_*	پیاده کرد	VERB	A1.1.1 X2.4 M2 L1-	take apart, unload, execute
+پیاده_* کردن_*	پیاده کردن	NOUN	A1.1.1 X2.4 M2 L1-	take apart, unload, execute
+پیدا_* کرد_*	پیدا کرد	VERB	A10+ X2.1 X6+	found
+پیدا_* کردن_*	پیدا کردن	NOUN	A10+ X2.1 X6+	to find
+پیروز_* شد_*	پیروز شد	VERB	X9.2+	won, became victorious
+پیروز_* شدن_*	پیروز شدن	NOUN	X9.2+	to win, become victorious
+پیش_* از_*	پیش از	ADP	Z5	before
+پیش_* رفت_*	پیش رفت	VERB	M1 A5.1+/A2.1+	advanced
+پیش_* رفتن_*	پیش رفتن	NOUN	M1 A5.1+/A2.1+	to advance
+پیشرفت_* بیماری_*	پیشرفت بیماری	NOUN	B2-	disease progression - matches real disease-compound convention
+پیشرفت_* کرد_*	پیشرفت کرد	VERB	A5.1+/A2.1 T2++ A2.1+ M1	progressed
+پیشرفت_* کردن_*	پیشرفت کردن	NOUN	A5.1+/A2.1 T2++ A2.1+ M1	to progress
+پیکار_* کرد_*	پیکار کرد	VERB	X8+ G3 E3-	battled, fought
+پیکار_* کردن_*	پیکار کردن	NOUN	X8+ G3 E3-	to battle, fight
+چاپ_* کرد_*	چاپ کرد	VERB	Q1.2	print
+چاپ_* کردن_*	چاپ کردن	NOUN	Q1.2	print
+چشم_* بست_*	چشم بست	VERB	L1- T2-	closed one's eyes (died, euphemism)
+چشم_* بستن_*	چشم بستن	NOUN	L1- T2-	to close one's eyes (die, euphemism)
+چشم_* پوشید_*	چشم پوشید	VERB	X5.1- A1.9	overlook; give up
+چشم_* پوشیدن_*	چشم پوشیدن	NOUN	X5.1- A1.9	overlook; give up
+چیره_* شد_*	چیره شد	VERB	X9.2+ S7.1+	dominated, prevailed
+چیره_* شدن_*	چیره شدن	NOUN	X9.2+ S7.1+	to dominate, prevail
+کادر_* درمان_*	کادر درمان	NOUN	B3/S2mf	medical staff, treatment team
+کادر_* پزشکی_*	کادر پزشکی	NOUN	B3/S2mf	medical staff
+کار_* کرد_*	کار کرد	VERB	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	work
+کار_* کردن_*	کار کردن	NOUN	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	work
+کارزار_* کرد_*	کارزار کرد	VERB	G3 S7.3	campaigned, battled
+کارزار_* کردن_*	کارزار کردن	NOUN	G3 S7.3	to campaign, battle
+کامل_* شد_*	کامل شد	VERB	T2- Q1.2	be completed, perfected
+کامل_* شدن_*	کامل شدن	NOUN	T2- Q1.2	be completed, perfected
+کامیاب_* شد_*	کامیاب شد	VERB	X9.2+	succeeded
+کامیاب_* شدن_*	کامیاب شدن	NOUN	X9.2+	to succeed
+کربن_* دی‌اکسید_*	کربن دی‌اکسید	NOUN	O1.3	carbon dioxide
+کره_* جنوبی_*	کره جنوبی	PROPN	Z2	South Korea
+کسب_* و_* کار_*	کسب و کار	NOUN	I2.1	business
+کمک_* کرد_*	کمک کرد	VERB	S8+	help
+کمک_* کردن_*	کمک کردن	NOUN	S8+	help
+کمک_* گرفت_*	کمک گرفت	VERB	S8+	get help
+کمک_* گرفتن_*	کمک گرفتن	NOUN	S8+	get help
+کنار_* گذاشت_*	کنار گذاشت	VERB	M2 G2.1@	put away
+کنار_* گذاشتن_*	کنار گذاشتن	NOUN	M2 G2.1@	put away
+کوچ_* کرد_*	کوچ کرد	VERB	M1	migrated
+کوچ_* کردن_*	کوچ کردن	NOUN	M1	to migrate
+گاز_* گرفت_*	گاز گرفت	VERB	B1	bit
+گاز_* گرفتن_*	گاز گرفتن	NOUN	B1	to bite
+گرامی_* داشت_*	گرامی داشت	VERB	S7.1+	honor
+گرامی_* داشتن_*	گرامی داشتن	NOUN	S7.1+	to honor
+گرفتار_* شد_*	گرفتار شد	VERB	A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3	get caught
+گرفتار_* شدن_*	گرفتار شدن	NOUN	A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3	get caught
+گروه_* خونی_*	گروه خونی	NOUN	B1 B3	blood group
+گروه_* شاهد_*	گروه شاهد	NOUN	X2.4/S5+c	control group (research)
+گریه_* کرد_*	گریه کرد	VERB	E4.1- Q2.2	weep, cry
+گریه_* کردن_*	گریه کردن	NOUN	E4.1- Q2.2	weep, cry
+گزارش_* داد_*	گزارش داد	VERB	Q2.2 S7.1-	report
+گزارش_* دادن_*	گزارش دادن	NOUN	Q2.2 S7.1-	report
+گزارش_* شد_*	گزارش شد	VERB	Q2.2	be reported
+گزارش_* شدن_*	گزارش شدن	NOUN	Q2.2	be reported
+گسترش_* بیماری_*	گسترش بیماری	NOUN	B2-	spread of disease - matches real disease-compound convention
+گسترش_* داد_*	گسترش داد	VERB	N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1	expand
+گسترش_* دادن_*	گسترش دادن	NOUN	N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1	expand
+گسترش_* یافت_*	گسترش یافت	VERB	N3.6+/A2.1 N5+/A2.1 A1.1.1	spread, expanded
+گسترش_* یافتن_*	گسترش یافتن	NOUN	N3.6+/A2.1 N5+/A2.1 A1.1.1	to spread, expand
+گل_* زد_*	گل زد	VERB	K5.1 X7+	score a goal
+گل_* زدن_*	گل زدن	NOUN	K5.1 X7+	score a goal
+گمان_* کرد_*	گمان کرد	VERB	X2.1 X7+	suppose
+گمان_* کردن_*	گمان کردن	NOUN	X2.1 X7+	suppose
+گوش_* داد_*	گوش داد	VERB	X3.2	listen
+گوش_* دادن_*	گوش دادن	NOUN	X3.2	listen
+گیر_* انداخت_*	گیر انداخت	VERB	A1.7+ A9+ G2.1	trap, catch
+گیر_* انداختن_*	گیر انداختن	NOUN	A1.7+ A9+ G2.1	trap, catch
+یاد_* کرد_*	یاد کرد	VERB	X2.2+	remember
+یاد_* کردن_*	یاد کردن	NOUN	X2.2+	remember
+یاد_* گرفت_*	یاد گرفت	VERB	X2.3+ P1	learn
+یاد_* گرفتن_*	یاد گرفتن	NOUN	X2.3+ P1	learn
+یورش_* برد_*	یورش برد	VERB	G3 G2.1 A9+	raided
+یورش_* بردن_*	یورش بردن	NOUN	G3 G2.1 A9+	to raid

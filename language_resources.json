@@ -292,5 +292,26 @@
             "script": "Latn"
         }
         
+    },
+    "pes": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Persian/pes_semantic_lexicon.tsv"
+            }, 
+            {
+                "data type": "mwe", 
+                "file path": "./Persian/mwe-pes.tsv"
+            }, 
+            {
+                "data type": "pos", 
+                "file path": "./Persian/pos_tagset.tsv"
+            }
+        ],
+        "language data": {
+            "description": "Iranian Persian",
+            "macrolanguage": "fa",
+            "script": "Arab"
+        }
     }
 }
